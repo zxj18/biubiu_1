@@ -20,15 +20,15 @@
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXB2/斗鱼.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://freed.yuanhsing.cf/TVBox/MaooXP/kuqimv.json"},
 
-{"key": "农民", "name": "农民(爬虫)", "type": 3, "api": "csp_Nmys",  "searchable": 1, "quickSearch": 1,"filterable": 1, "ext": "https://gst163.github.io/s/nongminyingshi.json"},  
+{"key": "农民", "name": "农民(爬虫)", "type": 3, "api": "csp_Nmys",  "searchable": 0, "quickSearch": 0,"filterable": 0, "ext": "https://gst163.github.io/s/nongminyingshi.json"},  
 {
             "key": "知识",
             "name": "知识学堂(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/xx1.json"
         },
         {
@@ -36,9 +36,9 @@
             "name": "儿童(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/xx2.json"
         },
         {
@@ -46,9 +46,9 @@
             "name": "小学(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/xx3.json"
         },
         {
@@ -56,9 +56,9 @@
             "name": "初中(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/xx4.json"
         },
         {
@@ -66,9 +66,9 @@
             "name": "高中(爬虫)",
             "type": 3,
             "api": "csp_Bili",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
+            "searchable": 0,
+            "quickSearch": 0,
+            "filterable": 0,
             "ext": "https://dxawi.github.io/1/json/xx5.json"
         },
 
