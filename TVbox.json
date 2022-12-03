@@ -1,25 +1,6 @@
-# CH猫友 配置地址 简易设定流程
-// 我的 --> 设置 -->  配置地址 --> 请输入 https://freed.yuanhsing.cf/TVBox/meowcf.json --> 确定
 
-
-{
-## spider
-//"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA3.jar",
-"spider":"https://freed.yuanhsing.cf/TVBox/MaooXB2/XBiubiuLA4.jar",
-
-# 直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="]}]}],
 {
     "sites": [ 
-        {
-            "key": "🍎",
-            "name": "小苹果(爬虫)",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Kunyu77",
             "name": "鲲鱼77(爬虫)",
@@ -39,15 +20,25 @@
             "filterable": 1
         },
         {
-            "key": "AppTT",
-            "name": "TT(爬虫)",
+            "key": "csp_AppTT",
+            "name": "图图(爬虫)",
             "type": 3,
             "api": "csp_AppTT",
-            "playerType": 1,
+            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext":"http://110.42.6.212:7788"
+            "ext": "http://43.154.35.148:9797/api/tutuapp.php"
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长(爬虫)",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
         {
             "key": "🐷",
@@ -113,6 +104,17 @@
             "filterable": 1
         },
         {
+            "key": "csp_Jianying",
+            "name": "简影(爬虫)",
+            "api": "csp_JianYing",
+            "type": 3,
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozODkxMywiQ3JlYXRlZEF0IjoiMjAyMi0xMS0yMlQyMjowNDoyNi42MzUrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTExLTIyVDIyOjA0OjI2LjYzNSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEyNjYwOTk2QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6ImU2M2Y5ZDRiLTE3YjQtNDJiZS1hNDlkLWQ3NDhjZGEwNDA2OSIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY5NzMwNjgwLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.HUvbbfvU_s7mfmKAsJ7Pg_Wo9tShQtdbZbnuUixZHrM"
+        },
+        {
             "key": "Voflix",
             "name": "Voflix(爬虫)",
             "type": 3,
@@ -159,6 +161,15 @@
             "filterable": 1
         },
         {
+            "key": "🍎",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "Tkys",
             "name": "天空影视(爬虫)",
             "type": 3,
@@ -176,15 +187,6 @@
             "quickSearch": 1,
             "filterable": 1
         },    
-        {
-            "key": "Dy555",
-            "name": "555(爬虫)",
-            "type": 3,
-            "api": "csp_Dy555",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "Dy1010",
             "name": "电影1010(爬虫)",
@@ -344,26 +346,6 @@
             "ext": "http://ali.饭太硬.ml/tok"
         },
         {
-            "key":"csp_xBPQ_dszb",
-            "name":"电视直播",
-            "type": 3,
-            "api": "csp_xBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/json/dszb.json"
-        },
-        {
-            "key": "Vof",
-            "name": "Voflix(XB)",
-            "type": 3,
-            "api": "csp_XBiubiu",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "https://dxawi.github.io/1/json/voflix.json"
-        },
-        {
             "key": "Bili",
             "name": "Bili(爬虫)",
             "type": 3,
@@ -446,7 +428,7 @@
        "lives":[
 {"group":"redirect","channels":[
     {"name":"live","urls":[
-        "proxy://do=live&type=txt&ext=aHR0cHM6Ly9keGF3aS5naXRodWIuaW8vMS90dmxpdmUudHh0"
+        "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
     ]}]}],
      "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
@@ -712,4 +694,4 @@
         "cms.qdwght.com"
     ],
       
-       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;3a462cb22337e60329e385ff5f809538"
+       "spider":"https://ghproxy.com/https://raw.githubusercontent.com/dxawi/1/main/jar/cc.jar;md5;168b9d9a04626b660674fb0d97e2a80d"
