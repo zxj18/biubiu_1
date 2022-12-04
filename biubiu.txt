@@ -44,7 +44,6 @@
 {"name":"量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":"闪电","url":"http://shandianzy.cc/api.php"},
 {"name":"飘花电影","url":"http://www.zzrhgg.com/api.php"},
-{"name":"飘零影院","url":"https://p2100.net/api.php"},
 {"name":"飞速资源","url":"https://www.feisuzy.com/api.php"},
 {"name":"鱼乐资源","url":"https://api.ylzy1.com/api.php"},
 {"name":"CK资源","url":"http://www.feifei67.com/api.php"}
