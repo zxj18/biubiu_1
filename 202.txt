@@ -58,7 +58,7 @@
 
 
 
-"dianshizhibo": "https://gitee.com/zhahaoyi/biubiu/raw/master/zhibo.txt",
+"dianshizhibo": "https://gitee.com/zhahaoyi/biubiu/raw/master/tv.txt",
 
 
 
