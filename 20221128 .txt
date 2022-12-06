@@ -55,29 +55,7 @@
 "zhujiexi": "http://rxjx.kuanjv.com/allm3u8.php?url=#http://lanlan.ckflv.cn/?url=#https://www.ckmov.vip/api.php?url=#https://www.pangujiexi.com/pangu/?url=",
 "beiyongjiexi": "https://www.nxflv.com/?url=#https://jx.aidouer.net/?url=#https://jx.playerjy.com/?url=#https://parse.123mingren.com/?url=#http://m2090.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://nbjx.vip/?url=",
 
-"dianshizhibo": "##港台##
-凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-凤凰卫视,https://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
-CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
-CCTV-1,http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8
-CCTV-2,http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
-东方财经,https://www.yicai.com/api/dfcj/liveIndex.m3u8
-第一财经,https://www.yicai.com/api/dycj/liveIndex.m3u8
-
-小片片说大片,http://akm-tct.douyucdn.cn/live/4258555r3isvDdlq.flv?uuid=
-
-科幻梦工厂,https://epg.112114.xyz/huya/15152155
-
-科幻迷布玛,http://epg.112114.xyz/douyu/3508304
-
-小川侃电影,https://ws.flv.huya.com/huyalive/94525224-2699462070-11594101307442462720-2966491422-10057-A-0-1.flv?wsSecret=81ef23a57b6f476c475e77a8a2b7617a&wsTime=6384dab3&seqid=3133809506646&ctype=tars_mobile&ver=1&txyp=o%3Anc2%3B&fs=bgct&t=103&uid=1464244781832&uuid=4127576758&t=103&sv=2110211124
-
-大蓝雀,http://epg.112114.xyz/douyu/8656759
-
-牛叔说电影,http://epg.112114.xyz/douyu/2758565
-
-牛叔说电影,http://epg.112114.xyz/douyu/8413908
-##",
+"dianshizhibo": "https://gitee.com/zhahaoyi/biubiu/raw/master/zhibo.txt",
 
 
 
