@@ -55,7 +55,7 @@
 "zhujiexi": "http://rxjx.kuanjv.com/allm3u8.php?url=#http://lanlan.ckflv.cn/?url=#https://www.ckmov.vip/api.php?url=#https://www.pangujiexi.com/pangu/?url=",
 "beiyongjiexi": "https://www.nxflv.com/?url=#https://jx.aidouer.net/?url=#https://jx.playerjy.com/?url=#https://parse.123mingren.com/?url=#http://m2090.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://nbjx.vip/?url=",
 
-"dianshizhibo": "https://gitee.com/zhahaoyi/biubiu/raw/master/tv.txt",
+"dianshizhibo": "",
 
 
 
