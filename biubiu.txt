@@ -1,5 +1,5 @@
 {"zhuyejiekou": [
-{"name":"木子看剧"url":https://mzkj.maccms.cf/api.php/provide/vod"},    
+{"name":"木子看剧",url":https://mzkj.maccms.cf/api.php/provide/vod"},    
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name":"月儿影视","url":"https://yue52.xyz/api.php/v1.vod"},
