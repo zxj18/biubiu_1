@@ -1,8 +1,6 @@
 {"zhuyejiekou": [
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
-
-{"name":"万能影院1","url":"http://ffhwyp.com/api.php/v1.vod"},
 {"name":"UU美剧","url":"https://www.uumjw.com/api.php/v1.vod"},
 {"name":"创意影视","url":"https://www.30dian.cn/api.php/v1.vod"},
 {"name":"天空影视2","url":"https://tkys6.com/xgapp.php/v2/"},
