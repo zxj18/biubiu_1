@@ -22,7 +22,6 @@
 {"name":"小猫咪","url":"http://zy.xiaomaomi.cc/api.php"},
 {"name":"融兴资源","url":"http://103.222.188.156:99/rongxingapi.php"},
 {"name":"人人资源","url":"http://rryy.tv/mzy/api.php"},
-{"name":"苹果采集","url":"http://107.150.5.146:39000/maccms10-main/api.php"},
 
 {"name":"忆梦","url":"http://anltv.cn/api.php"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
@@ -118,7 +117,6 @@
 #http://api.diliktv.xyz/vip/jx.php?url=
 #https://nbjx.vip/?url=
 #https://jx.blbo.cc:4433/?url=",
-
 
 
 //"zhujiexi": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url= 
