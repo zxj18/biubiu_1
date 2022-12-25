@@ -91,7 +91,7 @@
 //"zhujiexi": "http://rxjx.kuanjv.com/allm3u8.php?url=#http://pandown.pro/app/ysmjx.php?url=
 #http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url=",
 
-//"beiyongjiexi": "https://www.nxflv.com/?url=#https://jx.bozrc.com:4433/player/?url=#https://www.nxflv.com/?url=#https://jx.parwix.com:4433/player/?url=#https://jx.xmflv.com/?url=#http://lanlan.ckflv.cn/?url=#https://jx.aidouer.net/?url=#https://jx.playerjy.com/?url=#https://parse.123mingren.com/?url=#http://m2090.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://nbjx.vip/?url=",
+//"beiyongjiexi": "https://www.nxflv.com/?url=#https://jx.bozrc.com:4433/player/?url=#https://m3u8.look4you.top/?url=#https://jx.parwix.com:4433/player/?url=#https://jx.xmflv.com/?url=#http://lanlan.ckflv.cn/?url=#https://jx.aidouer.net/?url=#https://jx.playerjy.com/?url=#https://parse.123mingren.com/?url=#http://m2090.com/?url=#https://jx.m3u8.tv/jiexi/?url=#https://nbjx.vip/?url=",
 
 //"beiyongjiexi": "https://www.nxflv.com/?url=
 #https://jx.bozrc.com:4433/player/?url=
@@ -121,21 +121,18 @@
 
 
 
-"zhujiexi": [
-{"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url="},
-{"name":"左岸2","url":"https://za.kuanjv.com/?url="},
-{"name":"太空","url":"http://124.222.68.182/jiexi/4kJX.php/?url="},
-{"name":"扶风","url":"https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url="},
-{"name":"融兴","url":"https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url="},
-{"name":"多多","url":"http://qiqi.520say.cn/json/dd.php?url="}
-],
+"zhujiexi": "http://110.42.2.115:880/analysis/json/?uid=2100&my=fgjnoqstLMRUZ03489&url= 
+#https://za.kuanjv.com/?url= 
+#http://124.222.68.182/jiexi/4kJX.php/?url= 
+#https://vip.byteamone.cn/api/?key=rpPXBo57OXwYBnirql&url= 
+#https://svip.rongxingvr.top/api/?key=bpWXKrAJUKm3puOCH4&url= 
+#http://qiqi.520say.cn/json/dd.php?url=",
 
-"beiyongjiexi": [
-{"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
-{"name":"人人","url":"https://jx.blbo.cc:4433/?url="},
-{"name":"虾米","url":"https://jx.xmflv.com/?url="},
-{"name":"九亿","url":"https://m3u8.look4you.top/?url="}
-],
+"beiyongjiexi": "https://jx.parwix.com:4433/player/analysis.php?v=",
+#https://jx.blbo.cc:4433/?url=
+#https://jx.xmflv.com/?url=
+#https://m3u8.look4you.top/?url=",
+
 
 
 
