@@ -242,7 +242,7 @@
   "bfbiaotihou": "</h3>", //状播放剧集标题后关键词
   "bflianjieqian": "rid=", //播放剧集链接前关键词
   "bflianjiehou": "\""
-} //播放剧集链接后关键词  
+}, //播放剧集链接后关键词  
 {
 "name": "COKEMV",
 "url": "https://cokemv.me",
