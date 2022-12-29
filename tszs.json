@@ -1,3 +1,4 @@
+//首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。注意最后一个不用加,号
 //持续关注工众號：吾爱评测，及时获取最新免费优质软件，本接口自网络收集，仅为不会写代码而又想使用调试助手的粉丝提供便利之用，作者不是本人，而是多位网络大佬，如有冒犯，请联系删除，谢谢！
 {"Home": [
 {"key":"采集","title":"主页","pic":"https://i.niupic.com/images/2022/10/03/a5Zt.jpg"},
@@ -7,39 +8,20 @@
 {"key":"历史","title":"历史","pic":"https://i.niupic.com/images/2022/10/03/a5Zy.jpg"},
 {"key":"收藏","title":"收藏","pic":"https://i.niupic.com/images/2022/10/03/a5Zz.jpg"},
 {"key":"推送","title":"推送","pic":"https://i.niupic.com/images/2022/10/03/a5ZA.jpg"},
-{"key":"音乐MV","title":"音乐MV","pic":"https://i.niupic.com/images/2022/10/03/a5ZB.jpg","custom":"eyJuYW1lIjogIumfs+S5kE1WIiwKInVybCI6ICJodHRwczovL3d3dy5pY2hlbXYuY29tIiwKIlVzZXIiOiAiYXV0aG9yaXR5JHBsYXkuYmdwLjY4dG9vbC5jb20jcmVmZXJlciRodHRwczovL3d3dy5pY2hlbXYuY29tLyIsCiLlm77niYfor7fmsYLlpLQiOiAiUmVmZXJlciRodHRwczovL3d3dy5pY2hlbXYuY29tLyIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMCIsCiLlkK/nlKhqc+WKoOi9vea6kOeggSI6IjEiLAoianPliqDovb3mupDnoIHml7bpl7QiOiIzIiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuaoquWbvuaYvuekuiI6ICIwIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLljY7or61NViQvbXYvMV8wI+aXpemfqU1WJC9tdi8yXzAj5qyn576OTVYkL212LzNfMCPnjrDlnLpNViQvbXYvNF8wI+W9sXNNViQvbXYvNV8wI+WknOW6l+inhumikSQvbXYvNl8wI+i9puaooeinhumikSQvbXYvN18wI+eDreiInuinhumikSQvbXYvOF8wI+e+juWls3jnnJ8kL212LzlfMCPnvo7lpbPmiZPnop8kL212LzEwXzAj5Liy54On6KeG6aKRJC9tdi8xMV8wIiwKImhvdXpodWkiOiAiLmh0bWwiLAoic2hpZm91ZXJjaWppZXF1IjogIjAiLAoiamllcXVxaWFuIjogIuepuiIsCiJqaWVxdWhvdSI6ICLnqboiLAoiamllcXVzaHV6dXFpYW4iOiAiY2xhc3M9XCJwaWNcIiIsCiJqaWVxdXNodXp1aG91IjogIjwvbGk+IiwKInR1cGlhbnFpYW4iOiAiPGltZyBzcmM9XCIiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiY2xhc3M9XCJtdl9uYW1lXCI+IiwKImJpYW90aWhvdSI6ICI8L2Rpdj4iLAoibGlhbmppZXFpYW4iOiAiaHJlZj1cIiIsCiJsaWFuamllaG91IjogIlwiIiwKImxqcWlhbnpodWkiOiAiaHR0cHM6Ly93d3cuaWNoZW12LmNvbSIsCiJmdWJpYW90aXFpYW4iOiAiY2xhc3M9XCJtdl9wXCI+IiwKImZ1Ymlhb3RpaG91IjogIjwvZGl2PiJ9"},
 {"key": "自选网页",
-
-"title": "JRS",
-
-"pic": "https://i.niupic.com/images/2022/10/04/a653.jpg",
-
-"custom": "eyJuYW1lIjogIuS9k+iCsi1qcnMiLAoidXJsIjogImh0dHA6Ly93d3cuanJza2FuLmNvbSIsCiJVc2VyIjogIuepuiIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMSIsCiLliJfooajmmL7npLoiOiAiMSIsCiJmZW5sZWkiOiAi5L2T6IKyJOepuiIsCiJob3V6aHVpIjogIiIsCiJxaXNoaXllIjogIuepuiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJqaWVxdXFpYW4iOiAi56m6IiwKImppZXF1aG91IjogIuepuiIsCiJqaWVxdXNodXp1cWlhbiI6ICI8dWwgY2xhc3M9XCJpdGVtIHBsYXkiLAoiamllcXVzaHV6dWhvdSI6ICI8L3VsPiIsCiJ0dXBpYW5xaWFuIjogInNyYz1cIiIsCiJ0dXBpYW5ob3UiOiAiXCIiLAoiYmlhb3RpcWlhbiI6ICJjbGFzcz1cImxhYl90ZWFtX2hvbWVcIj4iLAoiYmlhb3RpaG91IjogIjxsaSBjbGFzcz1cImxhYl9iY1wiIiwKImxpYW5qaWVxaWFuIjogImhyZWY9XCJodHRwOi8vcGxheS5zcG9ydHN0ZWFtMzMzLmNvbSIsCiJsaWFuamllaG91IjogIlwiIiwKImxqcWlhbnpodWkiOiAiaHR0cDovL3BsYXkuc3BvcnRzdGVhbTMzMy5jb20iLAoiZnViaWFvdGlxaWFuIjogImNsYXNzPVwibGFiX3RpbWVcIj4iLAoiZnViaWFvdGlob3UiOiAiPC9saT4iLAoiYmZzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZmppZXF1cWlhbiI6ICLnqboiLAoiYmZqaWVxdWhvdSI6ICLnqboiLAoiYmZqaWVxdXNodXp1cWlhbiI6ICJjbGFzcz1cInN1Yl9wbGF5bGlzdFwiIiwKImJmamllcXVzaHV6dWhvdSI6ICJ8IiwKInpodWFuZ3RhaXFpYW4iOiAiY2xhc3M9XCJvdGhlcmJveFwiPiIsCiJ6aHVhbmd0YWlob3UiOiAiPC9wPiIsCiJkYW95YW5xaWFuIjogIuWvvOa8lO+8mjwvc3Bhbj4iLAoiZGFveWFuaG91IjogIjwvcD4iLAoiemh1eWFucWlhbiI6ICLkuLvmvJTvvJo8L3NwYW4+IiwKInpodXlhbmhvdSI6ICI8L3A+IiwKImp1cWluZ3FpYW4iOiAiPHNwYW4gY2xhc3M9XCJkYXRhXCIiLAoianVxaW5naG91IjogIjwvc3Bhbj4iLAoiYmZ5c2hpZm91ZXJjaWppZXF1IjogIjAiLAoiYmZ5amllcXVxaWFuIjogIuepuiIsCiJiZnlqaWVxdWhvdSI6ICLnqboiLAoiYmZ5amllcXVzaHV6dXFpYW4iOiAiPGEiLAoiYmZ5amllcXVzaHV6dWhvdSI6ICIvYT4iLAoiYmZiaWFvdGlxaWFuIjogIjxzdHJvbmc+IiwKImJmYmlhb3RpaG91IjogIjwvc3Ryb25nPiIsCiJiZmxpYW5qaWVxaWFuIjogImRhdGEtcGxheT1cIiIsCiJiZmxpYW5qaWVob3UiOiAiXCIiLAoiYmZxaWFuemh1aSI6ICJodHRwOi8vcGxheS5zcG9ydHN0ZWFtMzMzLmNvbSJ9"},
-
-{"key": "自选网页",
-
-"title": "直播吧",
-
-"pic": "https://i.niupic.com/images/2022/10/04/a654.jpg",
-
-"custom": "CnsibmFtZSI6ICLkvZPogrItemI4IiwKInVybCI6ICJodHRwczovL3d3dy56aGlibzgubmV0IiwKIlVzZXIiOiAi56m6IiwKIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKIuebtOaOpeaSreaUviI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLkvZPogrIk56m6IiwKImhvdXpodWkiOiAiIiwKInNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImppZXF1cWlhbiI6ICLnqboiLAoiamllcXVob3UiOiAi56m6IiwKImppZXF1c2h1enVxaWFuIjogImNsYXNzPVwibWF0Y2gtaXRlbVwiIiwKImppZXF1c2h1enVob3UiOiAiPC9hPiIsCiJ0dXBpYW5xaWFuIjogImh0dHBzOi8vaW1nMC5iYWlkdS5jb20vaXQvdT05NTk2MDcwNDMsMTA1NDIzNzUyMCZmbT0yNTMmZm10PWF1dG8mYXBwPTEzOCZmPUpQRUc/dz00MTcmaD01MDAiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtaG9tZSBmbGV4XCI+IiwKImJpYW90aWhvdSI6ICI8L2Rpdj4iLAoidHVwaWFucWlhbnpodWkiOiAi56m6IiwKImxpYW5qaWVxaWFuIjogImhyZWY9XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogIuepuiIsCiJmdWJpYW90aXFpYW4iOiAiY2xhc3M9XCJjb2wtdGltZVwiPiIsCiJmdWJpYW90aWhvdSI6ICIgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+In0="},
-
-{"key": "自选网页",
-
-"title": "抓饭直播",
-
-"pic": "https://i.niupic.com/images/2022/10/04/a655.jpg",
-
-"custom": "CnsibmFtZSI6ICLmipPppa3nm7Tmkq0iLAoidXJsIjogImh0dHBzOi8vbS56aHVhZmFuLnRlY2giLAoidWEiOiAiTW96aWxsYS81LjAgKGlQaG9uZTsgQ1BVIGlQaG9uZSBPUyAxM18yXzMgbGlrZSBNYWMgT1MgWCkgQXBwbGVXZWJLaXQvNjA1LjEuMTUgKEtIVE1MLCBsaWtlIEdlY2tvKSBWZXJzaW9uLzEzLjAuMyBNb2JpbGUvMTVFMTQ4IFNhZmFyaS82MDQuMSIsCiJVc2VyIjogIuepuiIsCiLmmK/lkKborrDlvZXljoblj7IiOiAiMSIsCiLnm7TmjqXmkq3mlL4iOiAiMSIsCiLliJfooajmmL7npLoiOiAiMSIsCiJmZW5sZWkiOiAi5L2T6IKyJOepuiIsCiJob3V6aHVpIjogIiIsCiJxaXNoaXllIjogIuepuiIsCiJzaGlmb3VlcmNpamllcXUiOiAiMSIsCiJqaWVxdXFpYW4iOiAiXCJjaGFubmVsc1wiIiwKImppZXF1aG91IjogIl0iLAoiamllcXVzaHV6dXFpYW4iOiAieyIsCiJqaWVxdXNodXp1aG91IjogIn0iLAoidHVwaWFucWlhbiI6ICJcImltYWdlVXJsXCI6XCIiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAiXCJjbmFtZVwiOlwiIiwKImJpYW90aWhvdSI6ICJcIiIsCiJsaWFuamllcWlhbiI6ICJcImlkXCI6XCIiLAoibGlhbmppZWhvdSI6ICJcIiIsCiJsanFpYW56aHVpIjogImh0dHBzOi8vbS56aHVhZmFuLnRlY2gvIiwKImZ1Ymlhb3RpcWlhbiI6ICJcImNhdGVnb3J5TmFtZVwiOlwiIiwKImZ1Ymlhb3RpaG91IjogIlwiIn0="},
-
-{"key": "自选网页",
-
-"title": "88看球",
-
-"pic": "https://i.niupic.com/images/2022/10/04/a656.jpg",
-
-"custom": "CnsibmFtZSI6ICLkvZPogrItODjnnIvnkIMiLAoidXJsIjogImh0dHA6Ly93d3cuODhrYW5xaXUuY29tIiwKIlVzZXIiOiAi56m6IiwKIuaYr+WQpuiusOW9leWOhuWPsiI6ICIxIiwKIuWIl+ihqOaYvuekuiI6ICIxIiwKImZlbmxlaSI6ICLkvZPogrIk56m6IiwKImhvdXpodWkiOiAiIiwKInNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImppZXF1cWlhbiI6ICLnqboiLAoiamllcXVob3UiOiAi56m6IiwKImppZXF1c2h1enVxaWFuIjogImdyb3VwLWdhbWUtaXRlbSIsCiJqaWVxdXNodXp1aG91IjogIjwvbGk+IiwKInR1cGlhbnFpYW4iOiAiaHR0cHM6Ly9pbWcwLmJhaWR1LmNvbS9pdC91PTE4NDU5NzgxLDcyNjI4OTM2MiZmbT0yNTMmZm10PWF1dG8mYXBwPTEzOCZmPUpQRUc/dz04MDAmaD01MDAiLAoidHVwaWFuaG91IjogIlwiIiwKImJpYW90aXFpYW4iOiAidGV4dC1yaWdodFwiPiIsCiJiaWFvdGlob3UiOiAiPGRpdiBkYXRhLWlkIiwKInR1cGlhbnFpYW56aHVpIjogIuepuiIsCiJsaWFuamllcWlhbiI6ICJocmVmPSciLAoibGlhbmppZWhvdSI6ICInIiwKImxqcWlhbnpodWkiOiAi56m6IiwKImZ1Ymlhb3RpcWlhbiI6ICJyb2xlPVwiYnV0dG9uXCI+IiwKImZ1Ymlhb3RpaG91IjogIjwiLAoiYmZzaGlmb3VlcmNpamllcXUiOiAiMCIsCiJiZmppZXF1cWlhbiI6ICLnqboiLAoiYmZqaWVxdWhvdSI6ICLnqboiLAoiYmZqaWVxdXNodXp1cWlhbiI6ICJcImdhbWUtdmlkZW9zLWJ0bi1jb250YWluZXJcIiIsCiJiZmppZXF1c2h1enVob3UiOiAiPC9kaXY+IiwKImJmeXNoaWZvdWVyY2lqaWVxdSI6ICIwIiwKImJmeWppZXF1cWlhbiI6ICLnqboiLAoiYmZ5amllcXVob3UiOiAi56m6IiwKImJmeWppZXF1c2h1enVxaWFuIjogIjxhIiwKImJmeWppZXF1c2h1enVob3UiOiAiL2E+IiwKImJmYmlhb3RpcWlhbiI6ICI+IiwKImJmYmlhb3RpaG91IjogIjwiLAoiYmZsaWFuamllcWlhbiI6ICJocmVmPSciLAoiYmZsaWFuamllaG91IjogIicifQ=="}
+"title": "填写自选自定义名称",
+"pic": "http://pic.netbian.com/uploads/allimg/161004/221627-1475590587ba17.jpg",
+"custom": "http://xxx.json"}
 ],
+
+//填写APP接口，支持以下5种接口格式。
+//"zhuyejiekou": [
+//{"name":"填接口名称","url":"http://xxx/api.php/v1.vod"},
+//{"name":"填接口名称","url":"https://xxx/xgapp.php/v1/"},
+//{"name":"填接口名称","url":"http://xxx/api.php/app/"},
+//{"name":"填接口名称","url":"https://xxx/xgapp.php/v2/"},
+//{"name":"填接口名称","url":"http://xxx/mogai_api.php/v1.vod"}],
+
 
 "zhuyejiekou": [
 {"name":"👑工众號：吾爱评测","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
@@ -111,6 +93,14 @@
 {"name":"🚀艾特影院","url":"https://www.aitee.cc/api.php/v1.vod"}, 
 {"name":"🚀913e影院","url":"http://www.913e.net/xgapp.php/v1/"}
 ],
+
+//填写采集接口
+//"caijizhan": [
+//{"name":"填接口名称","url":"填采集站链接"},
+//{"name":"填接口名称","url":"填采集站链接"},
+//{"name":"填接口名称","url":"填采集站链接"},
+//{"name":"填接口名称","url":"填采集站链接"}],
+
 "caijizhan": [
 {"name":"👑工众號：吾爱评测","url":"http://api.kunyu77.com/api.php"},
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
@@ -169,6 +159,8 @@
 {"name":"2号币(神马)","url":"http://phoebe.cf/api.php/iptv/vod/"}
 ],
 
+//主解析是JSON直链格式的解析
+
  "zhujiexi":[ 
  {"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
@@ -195,6 +187,9 @@
 {"name":"vip","url":"http://101.34.67.237:5705/parse/api/vip.js?url="}, 
 {"name":"dyg","url":"http://101.34.67.237:5705/parse/api/dyg.js?url="}, 
 {"name":"江湖2","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}], 
+ 
+//备用解析是常规格式的解析
+
  "beiyongjiexi": [
 {"name":"解析1","url":"https://nbjx.vip/?url="}, 
 {"name":"解析2","url":"https://jx.blbo.cc:4433/?url="}, 
@@ -232,11 +227,14 @@
 // 电视直播的接口链接
 "dianshizhibo":"https://gitee.com/zhahaoyi/biubiu/raw/master/tvcs",
 
-"嗅探词": ".flv#m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
+//填写播放地址寻找的地址标识词，中间用#号分割
+"嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
-  "guolvdizhi": ".gif#.css#.ico#.html#51.la#poster#?url=#file=#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com",
+//填写播放地址过滤规则，中间用#号分割
+"guolvdizhi": ".html#51.la#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#?url=",
+
   
-// 自定义接口
+//填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
 "zidingyi":[
 {
   "name": "👑工众號：吾爱评测",
