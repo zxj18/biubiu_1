@@ -291,7 +291,10 @@
  "shouye": "0",//不清楚
 
  "fenlei": "科技文化$gapi/rkc/directory/mixList/1_11/#梅食$gapi/rkc/directory/mixList/2_194/#一起看$gapi/rkc/directory/mixList/2_208/#文化$gapi/rkc/directory/mixList/2_195/#科普$gapi/rkc/directory/mixList/2_204/#社会人文$gapi/rkc/directory/mixList/2_1162/#纪录片$gapi/rkc/directory/mixList/2_514/#电台$gapi/rkc/directory/mixList/2_1556/#音乐之声$gapi/rkc/directory/mixList/2_910/#正能量$gapi/rkc/directory/mixList/2_250/", "houzhui": "", 
- "shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+ 
+"houzhui": "&size=20",//增加
+
+"shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
 "jiequqian": "空", //不需要二次截取就填空
  "jiequhou": "空", //不需要二次截取就填空
  "jiequshuzuqian": "\"type\":1",//截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义 
