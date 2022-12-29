@@ -167,21 +167,21 @@
     {
   "name": "bili-教育",
   "url": "https://api.bilibili.com",   
-  "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
-  "cookie":"innersign=0; buvid3=91BA4E1F-9AB1-F767-2F4D-68AE15871D4A82900infoc; i-wanna-go-back=-1; b_ut=7; b_lsid=103349ECA_182D2DA1881; _uuid=C52B10B4C-DD103-9DFC-FDB5-A38936101E64A84754infoc; buvid4=E048FB7D-A337-F0BB-544C-7AB3F7315AD184247-122082510-jfKjb2w6jTb32s8uEefwlw%3D%3D; buvid_fp=af25c71ea5abec45eebfffd42c02aab7; nostalgia_conf=-1; b_timer=%7B%22ffp%22%3A%7B%22333.400.fp.risk_91BA4E1F%22%3A%22182D2DA1A1B%22%2C%22333.337.fp.risk_91BA4E1F%22%3A%22182D2E5CF15%22%7D%7D; CURRENT_BLACKGAP=0; CURRENT_FNVAL=80; sid=6zxrig3u; PVID=1",
+ // "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
+  //"cookie":"innersign=0; buvid3=91BA4E1F-9AB1-F767-2F4D-68AE15871D4A82900infoc; i-wanna-go-back=-1; b_ut=7; b_lsid=103349ECA_182D2DA1881; _uuid=C52B10B4C-DD103-9DFC-FDB5-A38936101E64A84754infoc; buvid4=E048FB7D-A337-F0BB-544C-7AB3F7315AD184247-122082510-jfKjb2w6jTb32s8uEefwlw%3D%3D; buvid_fp=af25c71ea5abec45eebfffd42c02aab7; nostalgia_conf=-1; b_timer=%7B%22ffp%22%3A%7B%22333.400.fp.risk_91BA4E1F%22%3A%22182D2DA1A1B%22%2C%22333.337.fp.risk_91BA4E1F%22%3A%22182D2E5CF15%22%7D%7D; CURRENT_BLACKGAP=0; CURRENT_FNVAL=80; sid=6zxrig3u; PVID=1",
   "User": "空",     
   "直接播放": "0",
   "横图显示": "1",
-  "fenlei": "儿童早教$/x/web-interface/search/type?search_type=video&keyword=儿童早教&order=pubdate&page=
-#儿童启蒙故事$/x/web-interface/search/type?search_type=video&keyword=儿童启蒙故事&order=pubdate&page=
-#儿童英语启蒙$/x/web-interface/search/type?search_type=video&keyword=儿童英语启蒙&order=pubdate&page=
-#儿童歌曲$/x/web-interface/search/type?search_type=video&keyword=儿童歌曲&order=pubdate&page=
-#初三数学$/x/web-interface/search/type?search_type=video&keyword=初三数学&order=pubdate&page=
-#初一数学$/x/web-interface/search/type?search_type=video&keyword=初一数学&order=pubdate&page=
-#初二数学$/x/web-interface/search/type?search_type=video&keyword=初二数学&order=pubdate&page=
-#初三数学$/x/web-interface/search/type?search_type=video&keyword=初三数学&order=pubdate&page=
-#高一数学$/x/web-interface/search/type?search_type=video&keyword=高一数学&order=pubdate&page=
-#小学数学$/x/web-interface/search/type?search_type=video&keyword=小学数学&order=pubdate&page=", 
+  "fenlei": "儿童早教$/x/web-interface/search/type?search_type=video&keyword=儿童早教&order=pubdate&page=#小学数学$/x/web-interface/search/type?search_type=video&keyword=小学数学&order=pubdate&page=", 
+//#儿童启蒙故事$/x/web-interface/search/type?search_type=video&keyword=儿童启蒙故事&order=pubdate&page=
+//#儿童英语启蒙$/x/web-interface/search/type?search_type=video&keyword=儿童英语启蒙&order=pubdate&page=
+//#儿童歌曲$/x/web-interface/search/type?search_type=video&keyword=儿童歌曲&order=pubdate&page=
+//#初三数学$/x/web-interface/search/type?search_type=video&keyword=初三数学&order=pubdate&page=
+//#初一数学$/x/web-interface/search/type?search_type=video&keyword=初一数学&order=pubdate&page=
+//#初二数学$/x/web-interface/search/type?search_type=video&keyword=初二数学&order=pubdate&page=
+//#初三数学$/x/web-interface/search/type?search_type=video&keyword=初三数学&order=pubdate&page=
+//#高一数学$/x/web-interface/search/type?search_type=video&keyword=高一数学&order=pubdate&page=
+//#小学数学$/x/web-interface/search/type?search_type=video&keyword=小学数学&order=pubdate&page=", 
   "houzhui": "",
   "shifouercijiequ": "0",
   "jiequqian": "空",
