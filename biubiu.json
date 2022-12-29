@@ -172,7 +172,16 @@
   "User": "空",     
   "直接播放": "0",
   "横图显示": "1",
-  "fenlei": "初一数学$/x/web-interface/search/type?search_type=video&keyword=初一数学&order=pubdate&page=#初二数学$/x/web-interface/search/type?search_type=video&keyword=初二数学&order=pubdate&page=#儿童英语启蒙$/x/web-interface/search/type?search_type=video&keyword=儿童英语启蒙&order=pubdate&page=#儿童歌曲$/x/web-interface/search/type?search_type=video&keyword=儿童歌曲&order=pubdate&page=#初中数学$/x/web-interface/search/type?search_type=video&keyword=初中数学&order=pubdate&page=#高一数学$/x/web-interface/search/type?search_type=video&keyword=高一数学&order=pubdate&page=#小学数学$/x/web-interface/search/type?search_type=video&keyword=小学数学&order=pubdate&page=", 
+  "fenlei": "儿童早教$/x/web-interface/search/type?search_type=video&keyword=儿童早教&order=pubdate&page=
+#儿童启蒙故事$/x/web-interface/search/type?search_type=video&keyword=儿童启蒙故事&order=pubdate&page=
+#儿童英语启蒙$/x/web-interface/search/type?search_type=video&keyword=儿童英语启蒙&order=pubdate&page=
+#儿童歌曲$/x/web-interface/search/type?search_type=video&keyword=儿童歌曲&order=pubdate&page=
+#初三数学$/x/web-interface/search/type?search_type=video&keyword=初三数学&order=pubdate&page=
+#初一数学$/x/web-interface/search/type?search_type=video&keyword=初一数学&order=pubdate&page=
+#初二数学$/x/web-interface/search/type?search_type=video&keyword=初二数学&order=pubdate&page=
+#初三数学$/x/web-interface/search/type?search_type=video&keyword=初三数学&order=pubdate&page=
+#高一数学$/x/web-interface/search/type?search_type=video&keyword=高一数学&order=pubdate&page=
+#小学数学$/x/web-interface/search/type?search_type=video&keyword=小学数学&order=pubdate&page=", 
   "houzhui": "",
   "shifouercijiequ": "0",
   "jiequqian": "空",
