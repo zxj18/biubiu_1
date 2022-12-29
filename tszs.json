@@ -162,9 +162,9 @@
 //主解析是JSON直链格式的解析
 
  "zhujiexi":[ 
- {"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
-  {"name":"rx2","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
-   {"name":"右岸","url":"http://47.108.39.237:55/api/bfq/?key=04lD6af5tDPtSW7zrV&url="},
+{"name":"左岸","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
+{"name":"rx2","url":"http://rxjx.kuanjv.com/allm3u8.php?url="},
+{"name":"右岸","url":"http://47.108.39.237:55/api/bfq/?key=04lD6af5tDPtSW7zrV&url="},
 
  {"name":"刘兵","url":"http://newjiexi.gotka.top/keyu3.php?url="},
 {"name":"云you","url":"http://chaloli.cn/home/api?type=ys&uid=1942949&key=bfijlnovBCEGHJTV09&url="},
@@ -195,10 +195,10 @@
 //备用解析是常规格式的解析
 
  "beiyongjiexi": [
-{"name":"解析1-1","url":"https://www.nxflv.com/?url="}, 
-{"name":"解析1-2","url":"https://jx.bozrc.com:4433/player/?url="}, 
-{"name":"解析1-2","url":"https://jx.777jiexi.com/player/?url="}, 
-{"name":"解析1-3","url":"https://jx.parwix.com:4433/player/?url="}, 
+{"name":"解析1","url":"https://www.nxflv.com/?url="}, 
+{"name":"解析1","url":"https://jx.bozrc.com:4433/player/?url="}, 
+{"name":"解析1","url":"https://jx.777jiexi.com/player/?url="}, 
+{"name":"解析1","url":"https://jx.parwix.com:4433/player/?url="}, 
 
 {"name":"解析1","url":"https://nbjx.vip/?url="}, 
 {"name":"解析2","url":"https://jx.blbo.cc:4433/?url="}, 
