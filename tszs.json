@@ -2,8 +2,8 @@
 //持续关注工众號：吾爱评测，及时获取最新免费优质软件，本接口自网络收集，仅为不会写代码而又想使用调试助手的粉丝提供便利之用，作者不是本人，而是多位网络大佬，如有冒犯，请联系删除，谢谢！
 {"Home": [
 {"key":"采集","title":"主页","pic":"https://i.niupic.com/images/2022/10/03/a5Zt.jpg"},
-{"key":"网页","title":"网页","pic":"https://i.niupic.com/images/2022/10/03/a5Zu.jpg"},
 {"key":"APP","title":"APP","pic":"https://i.niupic.com/images/2022/10/03/a5Zv.jpg"},
+{"key":"网页","title":"网页","pic":"https://i.niupic.com/images/2022/10/03/a5Zu.jpg"},
 {"key":"直播","title":"直播","pic":"https://i.niupic.com/images/2022/10/03/a5Zw.jpg"},
 {"key":"历史","title":"历史","pic":"https://i.niupic.com/images/2022/10/03/a5Zy.jpg"},
 {"key":"收藏","title":"收藏","pic":"https://i.niupic.com/images/2022/10/03/a5Zz.jpg"},
@@ -240,7 +240,7 @@
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
 //填写播放地址过滤规则，中间用#号分割
-"guolvdizhi": ".html#51.la#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#?url=",
+//"guolvdizhi": ".html#51.la#cnzz.com#baidu.com#tootw.com#auete.com#bilibili.com#?url=",
 
   
 //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
