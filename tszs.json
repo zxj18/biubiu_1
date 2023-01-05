@@ -41,8 +41,6 @@
 "zhuyejiekou": [
 {"name":"555电影2","url":"https://www.555dy5.com/api.php/app/"},
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
-{"name":"特狗","url":"https://www.tegouys.com/xgapp.php/v2/"},
-{"name":"9e国语","url": "https://www.9eguoyu.com/api.php/v1.vod"},
 
 {"name":"👑工众號：吾爱评测","url":"https://www.idianying.com.cn/mogai_api.php/v1.vod"},
 {"name":"🚀天空影院（部分官方资源）","url":"https://tkys.tv/xgapp.php/v1/"},
@@ -125,8 +123,11 @@
 "caijizhan": [
 {"name":"👑工众號：吾爱评测","url":"http://api.kunyu77.com/api.php"},
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
+{"name":"量子资源(切)","url":"http://cj.lziapi.com/api.php/provide/vod/"},
+{"name":"红牛资源(切)","url":"https://www.hongniuzy3.com/api.php/provide/vod/"},
 {"name":"诺讯资源(官)","url":"http://caiji.nxflv.com/api.php"},
 {"name":"忆梦(官)","url":"http://anltv.cn/api.php"},
+{"name":"人人资源(官)","url":"http://rryy.tv/mzy/api.php/provide/vod/"},
 {"name":"小猫咪(官)","url":"http://zy.xiaomaomi.cc/api.php"},
 {"name":"1080资源库(切)","url":"https://api.1080zyku.com/inc/api_mac10.php"},
 {"name":"快车资源(切)","url":"https://caiji.kczyapi.com/api.php"},
