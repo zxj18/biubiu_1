@@ -190,6 +190,8 @@
 {"name":"vip","url":"http://101.34.67.237:5705/parse/api/vip.js?url="}, 
 {"name":"dyg","url":"http://101.34.67.237:5705/parse/api/dyg.js?url="}, 
 {"name":"江湖2","url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}], 
+ 
+ //备用解析是常规格式的解析
  "beiyongjiexi": [
 {"name":"parwix稳定","url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"诺讯","url":"https://www.nxflv.com/?url="}, 
