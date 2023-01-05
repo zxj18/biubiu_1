@@ -197,8 +197,8 @@
  
  //备用解析是常规格式的解析
  "beiyongjiexi": [
-{"name":"诺讯","url":"https://www.nxflv.com/?url="}, 
 {"name":"parwix稳定","url":"https://jx.jsonplayer.com/player/?url="}, 
+{"name":"诺讯","url":"https://www.nxflv.com/?url="}, 
 {"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
 
 {"name":"虾米","url":"https://jx.xmflv.com/?url="},
