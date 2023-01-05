@@ -125,6 +125,7 @@
 {"name":"推荐采集","url":"http://101.34.7.151:600/api.php"},
 {"name":"量子资源(切)","url":"http://cj.lziapi.com/api.php"},
 {"name":"红牛资源(切)","url":"https://www.hongniuzy3.com/api.php"},
+{"name":"天猫资源(切)","url":"https://www.tianmaozy.com/api.php"},
 {"name":"诺讯资源(官)","url":"http://caiji.nxflv.com/api.php"},
 {"name":"人人资源(官)","url":"http://rryy.tv/mzy/api.php"},
 {"name":"小猫咪(官)","url":"http://zy.xiaomaomi.cc/api.php"},
