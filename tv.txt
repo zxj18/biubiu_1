@@ -120,7 +120,7 @@ CHC家庭影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368373
 盗墓笔记，http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 
 ##空中课堂##
-空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
+
 
 
 ##斗鱼##
