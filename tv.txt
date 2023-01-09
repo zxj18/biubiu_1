@@ -98,7 +98,7 @@ CHC家庭影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368373
 武侠剧场,http://112.74.200.9:88/tv000000/m3u8.php?/migu/627198822
 盗墓笔记，http://112.74.200.9:88/tv000000/m3u8.php?/migu/625681367
 
-##空中课堂##
+##📚｜空中课堂##
 空中课堂一年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkyinj/1300000/mnf.m3u8
 空中课堂二年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kkernj/1300000/mnf.m3u8
 空中课堂三年级,https://keonline.shanghai.liveplay.qq.com/live/program/live/kksannj/1300000/mnf.m3u8
@@ -124,7 +124,7 @@ CHC家庭影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/644368373
 高二,http://liveplay-kk.rtxapp.com/live/program/live/kkgaoernj/1300000/mnf.m3u8
 高三,http://liveplay-kk.rtxapp.com/live/program/live/kkgaosannj/1300000/mnf.m3u8
 
-##NewTv##
+##🎀｜NewTv##
 NewTV黑莓电竞,http://39.134.115.163:8080/PLTV/88888910/224/3221225653/index.m3u8
 NewTV黑莓电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225718/index.m3u8
 NewTV潮妈辣婆,http://111.40.196.38/PLTV/88888888/224/3221225680/index.m3u8
@@ -274,7 +274,7 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 地球脉动第一季,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/7a3423af02284c3db48b854ab646993f/850.m3u8
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 
-##斗鱼##
+##🐟｜斗鱼##
 1.华语经典，http://epg.112114.xyz/douyu/434971
 2.吃米滴虫,http://epg.112114.xyz/douyu/315457
 3.华语院线,http://epg.112114.xyz/douyu/5581257
@@ -337,7 +337,7 @@ NewTV超级电视剧[1920*1080],http://hwrr.jx.chinamobile.com:8080/PLTV/8888888
 60.枪战影片，http://epg.112114.xyz/douyu/10240510
 61.国外电影,http://epg.112114.xyz/douyu/9683979
 
-##咪咕##
+##📺｜咪咕##
 咪咕古天乐影院,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 咪咕成龙作品集,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 咪咕郭富城影院,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8
@@ -375,7 +375,7 @@ MIGUSNH48剧场公演,http://117.148.179.139/PLTV/88888888/224/3221231622/index.
 咪咕每日荐影，http://117.148.179.162/PLTV/88888888/224/3221231727/index.m3u8
 咪咕武侠剧场,http://117.148.179.160/PLTV/88888888/224/3221231763/index.m3u8
 
-##埋堆##
+##🎭｜埋堆##
 埋堆1,http://txtest-xp2p.p2p.huya.com/src/1199561277675-1199561277675-5434860597135015936-2399122678806-10057-A-0-1.xs
 埋堆2,http://txtest-xp2p.p2p.huya.com/src/1199563477578-1199563477578-5444309108574388224-2399127078612-10057-A-0-1.xs
 埋堆3,http://txtest-xp2p.p2p.huya.com/src/1199561226091-1199561226091-5434639045542019072-2399122575638-10057-A-0-1.xs
