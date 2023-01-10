@@ -55,9 +55,10 @@
 
 
 "zhuyejiekou": [
+{"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
 {"name":"555电影2","url":"https://www.555dy5.com/api.php/app/"},
-{"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
+
 {"name":"555电影1","url":"https://www.555ys1.com/api.php/app/"},
 {"name":" 🌩极速影视","url":"http://ysappcms.hwzczx.cn/api.php/v1.vod"},
 {"name":" 🌩鑫总资源","url":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
