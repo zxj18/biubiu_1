@@ -273,7 +273,7 @@
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
 "fenlei": "电影$/vodtype/1#电视剧$/vodtype/2#综艺$/vodtype/3#动漫$vodtype/4",
-"houzhui": "",
+"houzhui": "-----------/",
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
