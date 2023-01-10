@@ -239,7 +239,7 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
-//{"name": "🌩大米星球",
+{"name": "🌩大米星球",
   "author": "20221208",
   "url": "https://www.dami1.me/", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
@@ -305,7 +305,7 @@
   "bflianjiehou": "\""},
 
 
-   //{"name": " 💫奇优影院",
+   {"name": " 💫奇优影院",
 "url": "http://www.qiyoudy2.com/",
 //访问请求头
 "ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
@@ -417,7 +417,7 @@
 
 
     
-//{"name": "🌩黑狐影院",
+{"name": "🌩黑狐影院",
   "author": "221206",
   "url": "http://www.dd4480.com/", 
   "tihuan": "cnzz.com",
