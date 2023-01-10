@@ -305,7 +305,7 @@
   "bflianjiehou": "\""},
 
 
-   {"name": " 💫奇优影院",
+   //{"name": " 💫奇优影院",
 "url": "http://www.qiyoudy2.com/",
 //访问请求头
 "ua": "Mozilla/5.0 (Linux; Android 4.4.2; Nexus 4 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/34.0.1847.114 Mobile Safari/537.36",
@@ -334,7 +334,7 @@
 //可以自定义列表翻页起始页的页数
 "qishiye": "1",
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-//"fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_#伦理$/list/6_",
+"fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_#伦理$/list/6_",
 "houzhui": ".html",
 "shifouercijiequ": "0",
 "jiequqian": "空",
@@ -417,12 +417,12 @@
 
 
     
-{"name": "🌩黑狐影院",
+//{"name": "🌩黑狐影院",
   "author": "221206",
   "url": "http://www.dd4480.com/", 
   "tihuan": "cnzz.com",
   "shouye": "1",
-  //"fenlei": "电影$/lanmu/1_#电视剧$/lanmu/2_#动漫$/lanmu/3_#综艺$/lanmu/4_#伦理$/lanmu/40_",
+  "fenlei": "电影$/lanmu/1_#电视剧$/lanmu/2_#动漫$/lanmu/3_#综艺$/lanmu/4_#伦理$/lanmu/40_",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
