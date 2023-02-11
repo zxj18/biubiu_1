@@ -23,6 +23,7 @@
 
 ],
 "caijizhan": [
+{"name":"量子资源","url":"http://cj.lziapi.com/api.php"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"红牛资源","url":"https://www.hongniuzy3.com/api.php"},
 {"name":"M3U8TV","url":"https://www.zycaiji.net:7788/api.php"},
@@ -38,7 +39,6 @@
 
 {"name":"忆梦","url":"http://anltv.cn/api.php"},
 {"name":"红牛资源","url":"https://www.hongniuzy3.com/api.php"},
-{"name":"量子资源","url":"http://cj.lziapi.com/api.php"},
 
 {"name":"鱼乐资源","url":"https://api.ylzy1.com/api.php"},
 {"name":"樱花资源","url":"https://m3u8.apiyhzy.com/api.php"},
