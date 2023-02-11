@@ -318,7 +318,7 @@
   "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.czspp.com", 
 "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
   "fenlei": "豆瓣电影TOP250$/dbtop250/page/#最新电影$/zuixindianying/page/#热映中$/reyingzhong/page/#电视剧$/dsj/page/#国产剧$/gcj/page/#美剧$/meijutt/page/#韩剧$/hanjutv/page/#番剧$/fanju/page/#动漫$/dm/page/",
-  "houzhui": "",
+  "houzhui": ".html",
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "class=\"module-items", //不需要二次截取就填空
   "jiequhou": "id=\"page", //不需要二次截取就填空
