@@ -296,7 +296,8 @@
 {
   "name": "🏭厂长资源",
   "url": "https://czzy01.com/",
-  "tihuan": "aliyundrive",
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  //"tihuan": "aliyundrive",
    "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
   "User": "空",
   "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.czspp.com", 
@@ -335,8 +336,11 @@
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "paly_list_btn",
-  "bfjiequshuzuhou": "</div>",
+   "bfjiequshuzuqian": "class=\"module-play-list\"", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
+
+  //"bfjiequshuzuqian": "paly_list_btn",
+  //"bfjiequshuzuhou": "</div>",
   "zhuangtaiqian": "上映：<span>",
   "zhuangtaihou": "</span>",
   "daoyanqian": "<li>导演：",
