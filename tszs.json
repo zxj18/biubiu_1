@@ -469,21 +469,22 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "1","线路名截取前": "","线路名截取后": "",
-"线路名截取数组前": "class=\"iconfont icon-iconfontplay2","线路名截取数组后": "/h3>","线路名标题前": ">","线路名标题后": "<",
+//"是否启用播放线路名": "1",
+//"线路名是否二次截取": "0","线路名截取前": "","线路名截取后": "",
+//"线路名截取数组前": "class=\"iconfont icon-iconfontplay2","线路名截取数组后": "/h3>","线路名标题前": ">","线路名标题后": "<",
 
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
-  "bfjiequshuzuqian": "class=\"module-play-list\"", //播放截取的列表数组的前关键词
+  //"bfjiequshuzuqian": "class=\"module-play-list\"", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "id=\"sort-item", //播放截取的列表数组的前关键词
+  
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
-
   "zhuangtaiqian": "更新：</span>", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
-  "daoyanqian": "导演：</span>", //导演前关键词
+  "daoyanqian": "导演：<span>", //导演前关键词
   "daoyanhou": "</div>", //导演态后关键词
-  "zhuyanqian": "主演：</span>", //主演前关键词
+  "zhuyanqian": "主演：<span>", //主演前关键词
   "zhuyanhou": "</div>", //主演后关键词
   "juqingqian": "<p>", //剧情前关键词
   "juqinghou": "</p>", //剧情后关键词
