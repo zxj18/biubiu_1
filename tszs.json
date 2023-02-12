@@ -482,9 +482,9 @@
   "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
   "zhuangtaiqian": "更新：</span>", //状态前关键词
   "zhuangtaihou": "</div>", //状态后关键词
-  "daoyanqian": "导演：<span>", //导演前关键词
+  "daoyanqian": "导演：</span>", //导演前关键词
   "daoyanhou": "</div>", //导演态后关键词
-  "zhuyanqian": "主演：<span>", //主演前关键词
+  "zhuyanqian": "主演：</span>", //主演前关键词
   "zhuyanhou": "</div>", //主演后关键词
   "juqingqian": "<p>", //剧情前关键词
   "juqinghou": "</p>", //剧情后关键词
