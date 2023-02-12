@@ -431,7 +431,7 @@
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
   "shouye": "1",
 
-  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.mozhatu.com", 
+  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.www.mozhatu.com", 
   "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
   
 
