@@ -337,10 +337,10 @@
   "bfjiequqian": "空",
   "bfjiequhou": "空",
    //"bfjiequshuzuqian": "class=\"module-play-list\"", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</div>", //播放截取的列表数组的后关键词
+  "bfjiequshuzuqian": "paly_list",
 
-  "bfjiequshuzuqian": "paly_list_btn",
-  //"bfjiequshuzuhou": "</div>",
+  //"bfjiequshuzuqian": "paly_list_btn",
+  "bfjiequshuzuhou": "</div>",//播放截取的列表数组的后关键词
   "zhuangtaiqian": "上映：<span>",
   "zhuangtaihou": "</span>",
   "daoyanqian": "<li>导演：",
