@@ -435,7 +435,7 @@
   "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
   
 
-  "fenlei": "电影$/vodshow/1--------#科幻片$/vodshow/1---科幻-----#电视剧$/vodshow/2--------#国产剧$/vodshow/2-内地-------#港剧$/vodshow/2-香港-------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#纪录$/vodshow/5--------", //网站列表的分类
+  "fenlei": "电影$/vodshow/1--------#科幻片$/vodshow/1---科幻-----#电视剧$/vodshow/2--------#国产剧$/vodshow/2-内地-------#港剧$/vodshow/2-香港-------#美剧$/vodshow/2-美国-------#韩剧$/vodshow/2-韩国-------#综艺$/vodshow/3--------#动漫$/vodshow/4--------#纪录$/vodshow/5--------", //网站列表的分类
   "houzhui": "---/", //网站翻页链接的后缀
               
   //"houzhui": ".html", //网站翻页链接的后缀
