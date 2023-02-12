@@ -426,13 +426,13 @@
 
 {"name": "🌩莫扎兔",
   "author": "20230209",
-  "url": "https://www.mozhatu.com/", //填网站链接
+  "url": "https://www.mozhatu.com", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
   "shouye": "1",
 
-  "fenlei": "电影$/vodtype/1---page/#科幻片$/index.php/vod/show/class/科幻/id/1/page/#电视剧$/index.php/vod/show/id/2/page/#国产剧$/index.php/vod/show/area/内地/id/2/page/#港剧$/index.php/vod/show/area/香港/id/2/page/#台剧$/index.php/vod/show/area/台湾/id/2/page/#韩剧$/index.php/vod/show/area/韩国/id/2/page/#日剧$/index.php/vod/show/area/日本/id/2/page/#美剧$/index.php/vod/show/area/美国/id/2/page/#英剧$/index.php/vod/show/area/英国/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#纪录片$/index.php/vod/show/id/5/page/", //网站列表的分类
-  "houzhui": "--------/", //网站翻页链接的后缀
+  "fenlei": "电影$/vodtype/1--------#科幻片$vodshow/1---科幻-----#电视剧$/index.php/vod/show/id/2/page/#国产剧$/index.php/vod/show/area/内地/id/2/page/#港剧$/index.php/vod/show/area/香港/id/2/page/#台剧$/index.php/vod/show/area/台湾/id/2/page/#韩剧$/index.php/vod/show/area/韩国/id/2/page/#日剧$/index.php/vod/show/area/日本/id/2/page/#美剧$/index.php/vod/show/area/美国/id/2/page/#英剧$/index.php/vod/show/area/英国/id/2/page/#综艺$/index.php/vod/show/id/3/page/#动漫$/index.php/vod/show/id/4/page/#纪录片$/index.php/vod/show/id/5/page/", //网站列表的分类
+  "houzhui": "---/", //网站翻页链接的后缀
               
   //"houzhui": ".html", //网站翻页链接的后缀
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
