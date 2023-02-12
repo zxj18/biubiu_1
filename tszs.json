@@ -296,11 +296,11 @@
 {
   "name": "🏭厂长资源",
   "url": "https://czzy01.com/",//填网站链接 
-  //"tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "tihuan": "aliyundrive",
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  //"tihuan": "aliyundrive",
    "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
   "User": "空",
-  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.czspp.com", 
+  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.czzy01.com", 
 "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
   "fenlei": "本月热门$/benyueremen/page/#高分影视$/gaofenyingshi/page/#豆瓣电影TOP250$/dbtop250/page/#最新电影$/zuixindianying/page/#热映中$/reyingzhong/page/#电视剧$/dsj/page/#国产剧$/gcj/page/#美剧$/meijutt/page/#韩剧$/hanjutv/page/#日剧$/movie_bt_series/rj/page/#海外剧$/movie_bt_series/hwj/page/#番剧$/fanju/page/#动漫$/dm/page/#韩国电影$/movie_bt_series/hanguodianying/page/#纪录片$/movie_bt/movie_bt_tags/jlpp/page/",
   "houzhui": "",
