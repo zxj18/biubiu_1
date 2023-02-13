@@ -211,8 +211,11 @@
 
 //主解析是JSON直链格式的解析
 
- "zhujiexi":[    
+ "zhujiexi":[ 
+
 {"name":"rx2","url":"http://rxjx.kuanjv.com/allm3u8.php?url="}, 
+{"name": "刚刚走过","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+
 //{"name":"懒懒解析","url": "http://lanlan.ckflv.cn/?url="},
 //{"name":"融兴解析","url":"https://rx.bt5v.com/json/jsonindex.php/?url="},
 //{"name":"左岸解析","url":"http://110.42.2.115:880/analysis/json/?uid=2100&my=cqrtwyACDGLOXY0249&mgtv=app&url="},
@@ -228,6 +231,8 @@
  
  //备用解析是常规格式的解析
  "beiyongjiexi": [
+{"name":"猫爪","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name": "刚刚走过","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"parwix稳定","url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"猫爪","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"诺讯","url":"https://www.nxflv.com/?url="}, 
