@@ -300,9 +300,9 @@
   "url": "https://wnvod.net", //填网站链接
   "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
-  "shouye": "1",
+  "shouye": "0",
 
-  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.www.mozhatu.com", 
+  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.www.wnvod.net", 
   "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
   
 
