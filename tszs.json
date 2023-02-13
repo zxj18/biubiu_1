@@ -231,11 +231,9 @@
  
  //备用解析是常规格式的解析
  "beiyongjiexi": [
-
-{"name": "刚刚走过","type": 1,"url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
-{"name":"猫爪","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"parwix稳定","url":"https://jx.jsonplayer.com/player/?url="}, 
-{"name":"猫爪","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name": "刚刚走过","url": "http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
+{"name":"猫爪","url":"https://jx.zhanlangbu.com/?url="},
 {"name":"诺讯","url":"https://www.nxflv.com/?url="}, 
 {"name":"左岸","url":"https://jx.parwix.com:4433/player/analysis.php?v="},
 {"name":"邦宁云播放器","url":"https://video.isyour.love/player/getplayer?url="},
@@ -300,6 +298,74 @@
   
 //填写网页接口内容，格式是 {网页接口1},{网页接口2},{网页接口3} 一个花括号里面就是一个自定义接口内容  用，号分割  最后一个不加，号
 "zidingyi":[
+
+    {
+  "name": "万能影院",
+  "url": "https://wnvod.net//",//填网站链接 
+  //"tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "tihuan": "aliyundrive",
+   //"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+  "User": "空",
+  "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.wnvod.net", 
+  "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
+  "fenlei": "电影$/vodtype/1--------#电视剧$vodtype/2--------#国产剧$/gcj/page/#美剧$/meijutt/page/#韩剧$/hanjutv/page/#日剧$/movie_bt_series/rj/page/#综艺$vodtype/3--------#动漫$vodtype/4--------",
+  "houzhui": "---.html",
+  "shifouercijiequ": "0",//截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空",//不需要二次截取就填空
+  "jiequhou": "空",//不需要二次截取就填空
+  "jiequshuzuqian": "<li>",//截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义 
+  "jiequshuzuhou": "</span>",//截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义 
+  "tupianqian": "original=\"",//列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"",//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "alt=\"",//列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"",//列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "wnvod.net",//列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"",//列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+  
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/xssearch?q=",
+  "sousuohou": "",
+  //"sousuohou": "&limit=500",
+  "sousuohouzhui": "/movie/",//搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "1",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "<li>",
+  "ssjiequshuzuhou": "</span>",
+  "sstupianqian": "original=\"",
+  "sstupianhou": "\"",
+  "ssbiaotiqian": "alt=\"",
+  "ssbiaotihou": "\"",
+  "sslianjieqian": "wnvod.net",
+  "sslianjiehou": "\"",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  //"bfjiequshuzuqian": "paly_list_btn", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "class=\"paly_list", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</div>",//播放截取的列表数组的后关键词
+  "zhuangtaiqian": "上映：<span>",//状态前关键词
+  "zhuangtaihou": "</span>",//状态后关键词
+  "daoyanqian": "<li>导演：",//导演前关键词
+  "daoyanhou": "</li>",//导演后关键词
+  "zhuyanqian": "<li>主演：",//主演前关键词
+  "zhuyanhou": "</li>",//主演后关键词
+  "juqingqian": "class=\"yp_context\">",//剧情前关键词
+  "juqinghou": "</div>",//剧情后关键词
+  "bfyshifouercijiequ": "0",//截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空",//不需要二次截取就填空
+  "bfyjiequhou": "空",//不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a",//播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>",//播放剧集数组后关键词
+  "bfbiaotiqian": ">",//播放剧集标题前关键词
+  "bfbiaotihou": "<",//状播放剧集标题后关键词
+  "bflianjieqian": "wnvod.net",//播放剧集链接前关键词
+  "bflianjiehou": "\""},
 
 {"name": "七七影视",
 "url": "",
