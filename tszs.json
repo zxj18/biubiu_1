@@ -342,11 +342,13 @@
 "bfjiequqian": "空",
 "bfjiequhou": "空",
 "bfjiequshuzuqian": "id=\"playlist",
-//"bfjiequshuzuhou": "</ul>",
+"bfjiequshuzuhou": "</ul>",
   //"bfjiequshuzuqian": "class=\"paly_list", //播放截取的列表数组的前关键词
-  "bfjiequshuzuhou": "</div>",//播放截取的列表数组的后关键词
-"zhuangtaiqian": "更新：</span>", //状态前关键词
-"zhuangtaihou": "</div>", //状态后关键词
+  //"bfjiequshuzuhou": "</div>",//播放截取的列表数组的后关键词
+//"zhuangtaiqian": "更新：</span>", //状态前关键词
+//"zhuangtaihou": "</div>", //状态后关键词
+  "zhuangtaiqian": "上映：<span>",//状态前关键词
+  "zhuangtaihou": "</span>",//状态后关键词
 "daoyanqian": "导演：</span>",
 "daoyanhou": "</p>",
 "zhuyanqian": "主演：</span>",
