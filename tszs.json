@@ -281,8 +281,8 @@
 {"name":"备解15","url":"https://www.ckplayer.vip/jiexi/?url="},
 {"name":"解析","url":"http://jx5.178du.com/p1/?url="} ], 
 // 电视直播的接口链接
-"dianshizhibo":"https://gitee.com/zhahaoyi/biubiu/raw/master/dszb.txt",
-
+//"dianshizhibo":"https://gitee.com/zhahaoyi/biubiu/raw/master/dszb.txt",
+"dianshizhibo":"https://gitee.com/zhahaoyi/tvbox/raw/master/zb%20/zb.txt",
 //填写播放地址寻找的地址标识词，中间用#号分割
 "嗅探词": "m3u8?#ixigua#.czspp#.m3u8#mp4#.flv#.mp3#.m4a#?video_id=",
 
