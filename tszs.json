@@ -294,7 +294,7 @@
 "zidingyi":[
     {
   "name": "野荷塘",
-  "url": "http://www.yehetang.cc",//填网站链接 
+  "url": "http://www.yehetang.cc/",//填网站链接 
   //"tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
   "tihuan": "aliyundrive",
    //"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
@@ -303,64 +303,63 @@
   "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
   "fenlei": "电影$/show/1#电视剧$/show/2#综艺$/show/3#动漫$/show/4#少儿$/show/33",
   "houzhui": "-----------.html",
-  "shifouercijiequ": "0",
-"jiequqian": "空",
-"jiequhou": "空",
-"jiequshuzuqian": "class=\"stui-vodlist__box\">",
-"jiequshuzuhou": "</a>",
-"tupianqian": "data-original=\"",
-"tupianhou": "\"",
-"biaotiqian": "title=\"",
-"biaotihou": "\"",
-"fubiaotiqian": "class=\"pic-text text-right\">",
-"fubiaotihou": "</span>",
-"lianjieqian": "href=\"",
-"lianjiehou": "\"",
-"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
-"sousuohou": "&limit=500",
-"sousuohouzhui": "/kan/",
-"ssmoshi": "0",
-"sousuoshifouercijiequ": "0",
-"ssjiequqian": "空",
-"ssjiequhou": "空",
-"ssjiequshuzuqian": "空",
-"ssjiequshuzuhou": "空",
-"sstupianqian": "空",
-"sstupianhou": "空",
-"ssbiaotiqian": "空",
-"ssbiaotihou": "空",
-"sslianjieqian": "空",
-"sslianjiehou": "空",
-"是否启用播放线路名": "1",
-"线路名是否二次截取": "0",
-"线路名截取前": "",
-"线路名截取后": "",
-"线路名截取数组前": "class=\"iconfont icon-iconfontplay2",
-"线路名截取数组后": "/h3>",
-"线路名标题前": ">",
-"线路名标题后": "<",
-"bfshifouercijiequ": "0",
-"bfjiequqian": "空",
-"bfjiequhou": "空",
-"bfjiequshuzuqian": "class=\"stui-content__playlist",
-"bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "class=\"data\">类型：",
-"zhuangtaihou": "</p>",
-"daoyanqian": "class=\"data\">导演：",
-"daoyanhou": "</p>",
-"zhuyanqian": "class=\"data\">主演：",
-"zhuyanhou": "</p>",
-"juqingqian": "class=\"detail-content\" style=\"display: none;\">",
-"juqinghou": "</span>",
-"bfyshifouercijiequ": "0",
-"bfyjiequqian": "空",
-"bfyjiequhou": "空",
-"bfyjiequshuzuqian": "<a",
-"bfyjiequshuzuhou": "/a>",
-"bfbiaotiqian": ">",
-"bfbiaotihou": "<",
-"bflianjieqian": "href=\"",
-"bflianjiehou": "\""},
+  "shifouercijiequ": "0",//截取的列表数组是否需要二次截取，0不需要，1需要
+  "jiequqian": "空",//不需要二次截取就填空
+  "jiequhou": "空",//不需要二次截取就填空
+  "jiequshuzuqian": "<li>",//截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义 
+  "jiequshuzuhou": "</span>",//截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义 
+  "tupianqian": "original=\"",//列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+  "tupianhou": "\"",//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotiqian": "alt=\"",//列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+  "biaotihou": "\"",//列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjieqian": "www.yehetang.cc",//列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+  "lianjiehou": "\"",//列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+  
+  //搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+  "sousuoqian": "/xssearch?q=",
+  "sousuohou": "",
+  //"sousuohou": "&limit=500",
+  "sousuohouzhui": "/movie/",//搜索页影片跳转详情页的中间标识链接部分
+  "ssmoshi": "1",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "<li>",
+  "ssjiequshuzuhou": "</span>",
+  "sstupianqian": "original=\"",
+  "sstupianhou": "\"",
+  "ssbiaotiqian": "alt=\"",
+  "ssbiaotihou": "\"",
+  "sslianjieqian": "www.yehetang.cc",
+  "sslianjiehou": "\"",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  //"bfjiequshuzuqian": "paly_list_btn", //播放截取的列表数组的前关键词
+  "bfjiequshuzuqian": "class=\"paly_list", //播放截取的列表数组的前关键词
+  "bfjiequshuzuhou": "</div>",//播放截取的列表数组的后关键词
+  "zhuangtaiqian": "上映：<span>",//状态前关键词
+  "zhuangtaihou": "</span>",//状态后关键词
+  "daoyanqian": "<li>导演：",//导演前关键词
+  "daoyanhou": "</li>",//导演后关键词
+  "zhuyanqian": "<li>主演：",//主演前关键词
+  "zhuyanhou": "</li>",//主演后关键词
+  "juqingqian": "class=\"yp_context\">",//剧情前关键词
+  "juqinghou": "</div>",//剧情后关键词
+  "bfyshifouercijiequ": "0",//截取的播放列表数组是否需要二次截取，0不需要，1需要
+  "bfyjiequqian": "空",//不需要二次截取就填空
+  "bfyjiequhou": "空",//不需要二次截取就填空
+  "bfyjiequshuzuqian": "<a",//播放剧集数组前关键词
+  "bfyjiequshuzuhou": "/a>",//播放剧集数组后关键词
+  "bfbiaotiqian": ">",//播放剧集标题前关键词
+  "bfbiaotihou": "<",//状播放剧集标题后关键词
+  "bflianjieqian": "www.yehetang.cc",//播放剧集链接前关键词
+  "bflianjiehou": "\""},
+
 
     {
   "name": "🏭厂长资源",
