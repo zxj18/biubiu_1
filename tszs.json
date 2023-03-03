@@ -295,8 +295,8 @@
     {
   "name": "野荷塘",
   "url": "http://www.yehetang.cc/",//填网站链接 
-  //"tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "tihuan": "aliyundrive",
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  //"tihuan": "aliyundrive",
    //"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
   "User": "空",
   "嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.czzy01.com,czzzu.com", 
