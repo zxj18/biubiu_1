@@ -1659,6 +1659,16 @@
 "qishiye": "1",
 "fenlei": "电影$/type/id-20-#电视剧$/type/id-21-#综艺$/type/id-22-#动漫/少儿$/type/id-23-#纪录片$/type/id-24-",
 "houzhui": ".html",
+
+//0：否，1：是
+"启用嗅探截取": "0",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
+
 "shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
