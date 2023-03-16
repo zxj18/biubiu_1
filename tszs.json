@@ -1717,12 +1717,12 @@
 
 {"name": " 🧶饭团影视",
 "url": "https://www.fantuanhd.com",
-//"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
-//"User": "User-Agent$123",
+"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+"User": "User-Agent$123",
 
 //0：否，1：是
-"启用嗅探截取": "1",
-"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"启用嗅探截取": "0",
+//"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 //User-Agent$123#Referer$123
 "播放地址二次截取": "var player_$$</div>",
 "播放地址截取": "\"url\":\"$$\"",
