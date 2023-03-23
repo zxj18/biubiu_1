@@ -173,7 +173,72 @@
 },
 "zidingyi": [
 
+{"name": "饭团影院",
+  "author": "20230209",
+  "url": "https://fantuan.tv",
+  //"url": "https://fositv.com/", //填网站链接 首涂
+  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
+  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
+  "shouye": "0",
 
+  //"嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.fositv.com", 
+  "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
+  
+
+  "fenlei": "电影$/vod______________________________show/1--------#科幻片$/vod______________________________show/104--------#电视剧$//vod______________________________show/2--------#国产剧$/vod______________________________show/2-中国大陆-------#港剧$/vod______________________________show/2-中国香港-------#美国$/vod______________________________show/2-美国-------#韩国$//vod______________________________show/2-韩国-------#日本$//vod______________________________show/2-日本-------#综艺$/vod______________________________show/3--------#动漫$/vod______________________________show/4--------#纪录$/vod______________________________show/5--------", //网站列表的分类
+  "houzhui": "---.html", //网站翻页链接的后缀
+              
+  "shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"myui-vodlist__box\"",
+"jiequshuzuhou": "</span>",
+"tupianqian": "original=\"",
+"tupianhou": "\"",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+"sousuohou": "&limit=500",
+"sousuohouzhui": "/voddetail/",
+"ssmoshi": "0",
+"sousuoshifouercijiequ": "0",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "空",
+"ssjiequshuzuhou": "空",
+"sstupianqian": "空",
+"sstupianhou": "空",
+"ssbiaotiqian": "空",
+"ssbiaotihou": "空",
+"sslianjieqian": "空",
+"sslianjiehou": "空",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "更新：</span>", //状态前关键词
+"zhuangtaihou": "</span>",//状态后关键词
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "<span class=\"data\"",
+"juqinghou": "</span>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""},
 
     {
   "name": "🏭厂长资源",
