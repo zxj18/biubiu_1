@@ -172,41 +172,47 @@
 }
 },
 "zidingyi": [
+ {"name": " 🧶饭团影视",
+"url": "https://www.fantuanhd.com",
+"ua": "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
+"User": "User-Agent$123",
 
-{"name": "饭团影院",
-  "author": "20230209",
-  "url": "https://fantuan.tv",
-  //"url": "https://fositv.com/", //填网站链接 首涂
-  "tihuan": "cnzz.com", //这个不用动，是个别网站嗅探时过滤地址用的
-  "User": "空", //这个不用动，是个别网站播放需要请求头时才用到
-  "shouye": "0",
+//0：否，1：是
+"启用嗅探截取": "0",
+//"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
 
-  //"嗅探词": "m3u8?#ixigua#.m3u8#mp4#.flv#.mp3#.m4a#s1.fositv.com", 
-  "guolvdizhi": "player.css#51.la#cnzz.com#baidu.com",
-  
 
-  "fenlei": "电影$/vod______________________________show/1--------#科幻片$/vod______________________________show/104--------#电视剧$//vod______________________________show/2--------#国产剧$/vod______________________________show/2-中国大陆-------#港剧$/vod______________________________show/2-中国香港-------#美国$/vod______________________________show/2-美国-------#韩国$//vod______________________________show/2-韩国-------#日本$//vod______________________________show/2-日本-------#综艺$/vod______________________________show/3--------#动漫$/vod______________________________show/4--------#纪录$/vod______________________________show/5--------", //网站列表的分类
-  "houzhui": "---.html", //网站翻页链接的后缀
-              
-  "shifouercijiequ": "0",
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#?url=",
+"qishiye": "1",
+"fenlei": "电影$/type/id-20-#电视剧$/type/id-21-#综艺$/type/id-22-#动漫/少儿$/type/id-23-#纪录片$/type/id-24-",
+"houzhui": ".html",
+
+
+"shifouercijiequ": "0",
 "jiequqian": "空",
 "jiequhou": "空",
-"jiequshuzuqian": "class=\"myui-vodlist__box\"",
-"jiequshuzuhou": "</span>",
-"tupianqian": "original=\"",
+"jiequshuzuqian": "class=\"stui-vodlist__box\">",
+"jiequshuzuhou": "</a>",
+"tupianqian": "data-original=\"",
 "tupianhou": "\"",
 "biaotiqian": "title=\"",
 "biaotihou": "\"",
+"fubiaotiqian": "class=\"pic-text text-right\">",
+"fubiaotihou": "</span>",
 "lianjieqian": "href=\"",
 "lianjiehou": "\"",
 "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou": "&limit=500",
-"sousuohouzhui": "/voddetail/",
+"sousuohouzhui": "/kan/",
 "ssmoshi": "0",
 "sousuoshifouercijiequ": "0",
-"jspic": "pic",
-"jsname": "name",
-"jsid": "id",
 "ssjiequqian": "空",
 "ssjiequhou": "空",
 "ssjiequshuzuqian": "空",
@@ -217,18 +223,26 @@
 "ssbiaotihou": "空",
 "sslianjieqian": "空",
 "sslianjiehou": "空",
+"是否启用播放线路名": "1",
+"线路名是否二次截取": "0",
+"线路名截取前": "",
+"线路名截取后": "",
+"线路名截取数组前": "class=\"iconfont icon-iconfontplay2",
+"线路名截取数组后": "/h3>",
+"线路名标题前": ">",
+"线路名标题后": "<",
 "bfshifouercijiequ": "0",
 "bfjiequqian": "空",
 "bfjiequhou": "空",
-"bfjiequshuzuqian": "id=\"playlist",
+"bfjiequshuzuqian": "class=\"stui-content__playlist",
 "bfjiequshuzuhou": "</ul>",
-"zhuangtaiqian": "更新：</span>", //状态前关键词
-"zhuangtaihou": "</span>",//状态后关键词
-"daoyanqian": "导演：</span>",
+"zhuangtaiqian": "class=\"data\">类型：",
+"zhuangtaihou": "</p>",
+"daoyanqian": "class=\"data\">导演：",
 "daoyanhou": "</p>",
-"zhuyanqian": "主演：</span>",
+"zhuyanqian": "class=\"data\">主演：",
 "zhuyanhou": "</p>",
-"juqingqian": "<span class=\"data\"",
+"juqingqian": "class=\"detail-content\" style=\"display: none;\">",
 "juqinghou": "</span>",
 "bfyshifouercijiequ": "0",
 "bfyjiequqian": "空",
@@ -239,7 +253,6 @@
 "bfbiaotihou": "<",
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
-
     {
   "name": "🏭厂长资源",
   "url": "https://czzy01.com/",
