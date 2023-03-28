@@ -226,6 +226,9 @@
  
  //备用解析是常规格式的解析
  "beiyongjiexi": [
+
+{"name":"懒懒","type":1,"url":"http://lanlan.ckflv.cn/?url="},
+{"name":"猫爪1","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 {"name":"parwix稳定","url":"https://jx.jsonplayer.com/player/?url="}, 
 {"name":"杰森","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 {"name":"777","type":0,"url":"https://jx.777jiexi.com/player/?url="}, 
