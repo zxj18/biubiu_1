@@ -243,13 +243,13 @@
 //主解析是JSON直链格式的解析
 
  "zhujiexi":[ 
-
-{"name":"主解💠","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
+{"name":"走过💠","url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url="},
 {"name":"江湖💠","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
 {"name":"懒懒💠","url":"http://lanlan.ckflv.cn/?url="},
 {"name":"蓝城💠","url":"https://jx.ccabc.cc/byg/?url="},
 {"name":"诺讯💠","url":"https://json.nxflv.com/?uid=41848417&key=alopqtBDGHKLPQV356&url="},
 {"name":"宝盒💠","url":"https://jx.52ruo.cc/json/?id=6&url="},
+{"name":"主解💠","url":"https://play.airfun.fun/API.php?appkey=DJALklaldAALDKDNMLAKDHld&url="},
 {"name":"爱酷💠","url":"https://cache.json.icu/?url="}
 //{"name":"rx2","url":"http://rxjx.kuanjv.com/allm3u8.php?url="}, 
 //{"name":"懒懒解析","url": "http://lanlan.ckflv.cn/?url="},
