@@ -85,7 +85,7 @@
 // 备用解析 是常规格式的解析，可以添加多个，用#号分割，最后一个不加#号
 //备用解析是常规格式的解析，可以添加多个，例如：http://xxx.com?url=#https://xxx.com?url= 用#号分割，最后一个后面不加#号。
 
-"zhujiexi":"http://27.124.4.42:4567/jhjson/ceshi.php?url=#https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url=#http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=",
+"zhujiexi":"http://27.124.4.42:4567/jhjson/ceshi.php?url=",
 
 "beiyongjiexi":"https://jx.jsonplayer.com/player/?url=#https://rx.bt5v.com/json/jsonindex.php/?url=",
 
