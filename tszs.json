@@ -623,6 +623,10 @@
 "sslianjiehou":"\"",
 "ssljqianzhui":"空",
 "ssljhouzhui":"空",
+
+"启用嗅探截取":"1",
+"嗅探请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
+
 "是否启用播放线路名":"1",
 "线路名是否二次截取":"0",
 "线路名截取前":"",
@@ -655,13 +659,7 @@
 "bflianjiehou":"\"",
 "bfqianzhui":"空",
 "bfhouzhui":"空",
-
-"启用嗅探截取":"1",
-"嗅探请求头":"User-Agent$Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
-
-"是否base64解码":"0",
-"是否url解码":"0",
-"官源是否走解析":"0"
+"bfjiexi":"空"
 },
 
 {"name":"🌼饭团影视",
