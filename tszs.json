@@ -523,6 +523,19 @@
 "url":"https://www.fantuanhd.com",
 "ua":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36",
 "User":"User-Agent$123",
+
+//0：否，1：是
+"启用嗅探截取": "0",
+"嗅探请求头": "User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+//User-Agent$123#Referer$123
+"播放地址二次截取": "var player_$$</div>",
+"播放地址截取": "\"url\":\"$$\"",
+"是否base64解码": "0",
+"是否url解码": "0",
+"官源是否走解析": "0",
+
+
+
 "嗅探词":"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
 "过滤词":"51.la#cnzz.com#baidu.com#?url=",
 "qishiye":"1",
@@ -531,7 +544,7 @@
 "shifouercijiequ":"0",
 "jiequqian":"空",
 "jiequhou":"空",
-"jiequshuzuqian":"class=\"stui-vodlist__box",
+"jiequshuzuqian": "class=\"stui-vodlist__box\">",
 "jiequshuzuhou":"</a>",
 "tupianqian":"original=\"",
 "tupianhou":"\"",
@@ -548,7 +561,7 @@
 "ssmoshi":"0",
 "sousuoqian":"/index.php/ajax/suggest?mid=1&wd=",
 "sousuohou":"&limit=500",
-"sousuohouzhui":"/detail/id-",
+"sousuohouzhui":"/kan/",
 "sousuoshifouercijiequ":"0",
 "ssjiequqian":"空",
 "ssjiequhou":"空",
