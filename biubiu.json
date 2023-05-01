@@ -1,6 +1,3 @@
-
-
-
 {"zhuyejiekou": [
     
 {"name":"555电影2","url":"https://www.555dy5.com/api.php/app/"},
@@ -1089,6 +1086,68 @@
 "bflianjiehou": "\""
 },
 
+{"name": "  🌩酷客影院",
+"url": "http://696m.com",
+"User": "User-Agent$123",
+"ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+"fenlei": "电影$/list/1_#电视剧$/list/2_#综艺$/list/4_#动漫$/list/3_",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"stui-vodlist__thumb",
+"jiequshuzuhou": "</a>",
+"tupianqian": "original=\"",
+"tupianhou": "\"",
+"biaotiqian": "title=\"",
+"biaotihou": "\"",
+"fubiaotiqian": "text-right\">",
+"fubiaotihou": "</span>",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"搜索请求方式": "1",
+"ssmoshi": "1",
+"sousuoqian": "http://696m.com/search.php",
+"sousuohou": "searchword",
+"sousuohouzhui": "",
+"sousuoshifouercijiequ": "0",
+"jspic": "pic",
+"jsname": "name",
+"jsid": "id",
+"ssjiequqian": "空",
+"ssjiequhou": "空",
+"ssjiequshuzuqian": "data",
+"ssjiequshuzuhou": "</a>",
+"sstupianqian": "original=\"",
+"sstupianhou": "\"",
+"ssbiaotiqian": "title=\"",
+"ssbiaotihou": "\"",
+"ssfubiaotiqian": "text-right\">",
+"ssfubiaotihou": "</span>",
+"sslianjieqian": "href=\"",
+"sslianjiehou": "\"",
+"bfshifouercijiequ": "0",
+"bfjiequqian": "空",
+"bfjiequhou": "空",
+"bfjiequshuzuqian": "class=\"stui-content__playlist clearfix\"",
+"bfjiequshuzuhou": "</ul>",
+"zhuangtaiqian": "class=\"pic-text text-right\">",
+"zhuangtaihou": "</span>",
+"daoyanqian": "导演：</span>",
+"daoyanhou": "</p>",
+"zhuyanqian": "主演：</span>",
+"zhuyanhou": "</p>",
+"juqingqian": "简介：</span>",
+"juqinghou": "</div>",
+"bfyshifouercijiequ": "0",
+"bfyjiequqian": "空",
+"bfyjiequhou": "空",
+"bfyjiequshuzuqian": "<a",
+"bfyjiequshuzuhou": "/a>",
+"bfbiaotiqian": ">",
+"bfbiaotihou": "<",
+"bflianjieqian": "href=\"",
+"bflianjiehou": "\""},
 
 {
   "name": " 🌩搜狗影院(官)",
@@ -1098,7 +1157,7 @@
   "shouye": "1",
   "fenlei":"电影$/s/dianying/page/#电视剧$/s/dianshiju/page/#综艺$/s/zongyi/page/#动漫$/s/dianying/page/#国产剧$/s/guochanju/page/#欧美剧$/s/oumeiju/page/#国漫$/s/guochandongman/page/#日漫$/s/rihandongman/page/#B站$/s/bilibili/page/#伦理$/s/lunlipian/page/",
   "houzhui": ".html",
-
+  "houzhui": "---.html",
   "shifouercijiequ": "1",
   "jiequqian": "class=\"module-items\"",
   "jiequhou": "<div id=\"page\"",
@@ -1360,6 +1419,53 @@
 "bflianjieqian": "href=\"",
 "bflianjiehou": "\""},
 
+{"name": "❤斗鱼", 
+"url": "https://www.douyu.com/", 
+//填网站链接 
+"tihuan": "cnzz.com",
+ //这个不用动，是个别网站嗅探时过滤地址用的 "User": "空", //这个不用动，是个别网站播放需要请求头时才用到 
+ "shouye": "0",//不清楚
+
+ "fenlei": "科技文化$gapi/rkc/directory/mixList/1_11/#梅食$gapi/rkc/directory/mixList/2_194/#一起看$gapi/rkc/directory/mixList/2_208/#文化$gapi/rkc/directory/mixList/2_195/#科普$gapi/rkc/directory/mixList/2_204/#社会人文$gapi/rkc/directory/mixList/2_1162/#纪录片$gapi/rkc/directory/mixList/2_514/#电台$gapi/rkc/directory/mixList/2_1556/#音乐之声$gapi/rkc/directory/mixList/2_910/#正能量$gapi/rkc/directory/mixList/2_250/", "houzhui": "", 
+ 
+"houzhui": "---.html",//增加
+
+"shifouercijiequ": "0", //截取的列表数组是否需要二次截取，0不需要，1需要
+"jiequqian": "空", //不需要二次截取就填空
+ "jiequhou": "空", //不需要二次截取就填空
+ "jiequshuzuqian": "\"type\":1",//截取的列表数组的前关键词,截取的关键词有 " 的用 \ 进行转义 
+ "jiequshuzuhou": "\"rs16\"",//截取的列表数组的后关键词,截取的关键词有 " 的用 \ 进行转义 
+ "tupianqian": "\"rs1\":\"", //列表中资源的图片前关键词,截取的关键词有 " 的用 \ 进行转义
+ "tupianhou": "\"",//列表中资源的图片后关键词,截取的关键词有 " 的用 \ 进行转义
+ "biaotiqian": "\"rn\":\"",//列表中资源的标题前关键词,截取的关键词有 " 的用 \ 进行转义
+ "biaotihou": "\"",//列表中资源的标题后关键词,截取的关键词有 " 的用 \ 进行转义
+ "lianjieqian": "\"rid\":",//列表中资源的详情页跳转链接前关键词,截取的关键词有 " 的用 \ 进行转义
+ "lianjiehou": ",\"",//列表中资源的详情页跳转链接后关键词,截取的关键词有 " 的用 \ 进行转义
+
+//搜索部分基本不用动，现在网站基本都是苹果CMS，所有搜索是固定的。
+ "sousuoqian": "/japi/search/api/searchShow?kw=",
+ "sousuohou": "&page=1&pageSize=50", 
+ "sousuohouzhui": "/",//搜索页影片跳转详情页的中间标识链接部分
+"ssmoshi": "0", "sousuoshifouercijiequ": "0", "jspic": "roomSrc", "jsname": "roomName", "jsid": "rid", "ssjiequqian": "空", "ssjiequhou": "空", "ssjiequshuzuqian": "空", "ssjiequshuzuhou": "空", "sstupianqian": "空", "sstupianhou": "空", "ssbiaotiqian": "空", "ssbiaotihou": "空", "sslianjieqian": "空", "sslianjiehou": "空", "bfshifouercijiequ": "0", "bfjiequqian": "空", "bfjiequhou": "空", 
+"bfjiequshuzuqian": "left\"><div class=\"Title",//播放截取的列表数组的前关键词
+ "bfjiequshuzuhou": "</a>",//播放截取的列表数组的后关键词
+"zhuangtaiqian": "更新：</span>", //状态前关键词
+"zhuangtaihou": "</p>",//状态后关键词
+ "daoyanqian": "导演：</span>",//导演前关键词
+  "daoyanhou": "</p>",//导演后关键词
+ "zhuyanqian": "主演：</span>",//主演前关键词
+  "zhuyanhou": "</p>", //主演hou关键词
+ "juqingqian": "简介：</span>",//剧情前关键词
+ "juqinghou": "</div>",//剧情后关键词
+ "bfyshifouercijiequ": "0",//截取的播放列表数组是否需要二次截取，0不需要，1需要
+ "bfyjiequqian": "空",//不需要二次截取就填空
+ "bfyjiequhou": "空",//不需要二次截取就填空
+ "bfyjiequshuzuqian": "<h3 class=\"Title",//播放剧集数组前关键词
+ "bfyjiequshuzuhou": "target=\"_blank", //播放剧集数组后关键词
+ "bfbiaotiqian": "header\">",//播放剧集标题前关键词
+"bfbiaotihou": "</h3>",//状播放剧集标题后关键词
+"bflianjieqian": "rid=",//播放剧集链接前关键词
+"bflianjiehou": "\""}, 
 {
 			"name": "VIP1280",
 			"url": "http://www.vip1280.net",
@@ -1681,6 +1787,100 @@
 },
 {
 "name": "🎵音乐MV",
+"url": "https://www.ichemv.com",
+"User": "authority$play.bgp.68tool.com#referer$https://www.ichemv.com/",
+"直接播放": "1",
+"横图显示": "1",
+"fenlei": "华语MV$/mv/1_0#日韩MV$/mv/2_0#欧美MV$/mv/3_0#现场MV$/mv/4_0#影sMV$/mv/5_0#夜店视频$/mv/6_0#车模视频$/mv/7_0#热舞视频$/mv/8_0#美女x真$/mv/9_0#美女打碟$/mv/10_0#串烧视频$/mv/11_0",
+"houzhui": ".html",
+"shifouercijiequ": "0",
+"jiequqian": "空",
+"jiequhou": "空",
+"jiequshuzuqian": "class=\"pic\"",
+"jiequshuzuhou": "</li>",
+"tupianqian": "src=\"",
+"tupianhou": "\"",
+"biaotiqian": "class=\"mv_name\">",
+"biaotihou": "</div>",
+"lianjieqian": "href=\"",
+"lianjiehou": "\"",
+"ljqianzhui": "https://www.ichemv.com",
+"fubiaotiqian": "class=\"mv_p\">",
+"fubiaotihou": "</div>"
+},
+
+{ 
+  "name": "Justlive虎牙",  
+  "User": "空",  
+  "url": "http://live.yj1211.work/api/live/getRecommendByPlatform",  
+  "直接播放": "1",  
+  "横图显示": "1",  
+  "fenlei": "全部$?platform=douyu&page=#一起看$Area?platform=huya&area=一起看&page=#英雄联盟$Area?platform=huya&area=英雄联盟&page=#英雄联盟手游$Area?platform=huya&area=英雄联盟手游&page=#王者荣耀$Area?platform=huya&area=王者荣耀&page=#和平精英$Area?platform=huya&area=和平精英page=#棋牌桌游$Area?platform=huya&area=棋牌桌游&page=#欢乐斗地主$Area?platform=huya&area=欢乐斗地主&page=#体育$Area?platform=huya&area=体育&page=#美食$Area?platform=huya&area=美食&page=#颜值$Area?platform=huya&area=颜值&page=",  
+  "houzhui": "&size=20",  
+  "shifouercijiequ": "1",  
+  "jiequqian": "[",  
+  "jiequhou": "]",  
+  "jiequshuzuqian": "{",  
+  "jiequshuzuhou": "}",  
+  "tupianqian": "\"roomPic\":\"",  
+  "tupianhou": "\"",   
+  "biaotiqian": "\"roomName\":\"",  
+  "biaotihou": "\"",   
+  "lianjieqian": "\"roomId\":\"",  
+  "lianjiehou": "\"",  
+  "ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=huya&roomId=", 
+  "fubiaotiqian": "\"ownerName\":\"", 
+  "fubiaotihou": "\""
+},  
+{  "name": "Justlive哔哩",  
+  "User": "空",  
+  "url": "http://live.yj1211.work/api/live/getRecommendByPlatform",  
+  "直接播放": "1",  
+  "横图显示": "1",  
+  "fenlei": "全部$?platform=bilibili&page=#英雄联盟$Area?platform=bilibili&area=英雄联盟&page=#王者荣耀$Area?platform=bilibili&area=王者荣耀&page=#和平精英$Area?platform=bilibili&area=和平精英&page=#游戏赛事$Area?platform=bilibili&area=游戏赛事&page=",  
+  "houzhui": "&size=20",  
+  "shifouercijiequ": "1",  
+  "jiequqian": "[",  
+  "jiequhou": "]",  
+  "jiequshuzuqian": "{",  
+  "jiequshuzuhou": "}",  
+  "tupianqian": "\"roomPic\":\"",  
+  "tupianhou": "\"",   
+  "biaotiqian": "\"roomName\":\"",  
+  "biaotihou": "\"",   
+  "lianjieqian": "\"roomId\":\"",  
+  "lianjiehou": "\"",  
+  "ljqianzhui": "http://live.yj1211.work/index/liveRoom?platform=bilibili&roomId=", 
+  "fubiaotiqian": "\"ownerName\":\"", 
+  "fubiaotihou": "\""
+},    
+{ 
+  "name": "DJ音乐", 
+  "url": "http://www.djuu.com", 
+  "User": "空", 
+  "直接播放": "1", 
+  "横图显示": "0", 
+  "列表显示": "1", 
+  "fenlei": "热播$/search?musicname=热播&list=2&cid=0&page=#抖音热门$/search?musicname=%E6%8A%96%E9%9F%B3&list=2&cid=0&page=#经典旋律$/search?musicname=经典旋律&list=2&cid=0&page=#迪高串烧$/djlist/1_#喊麦串烧$/djlist/12_#中文串烧$/djlist/13_#外语串烧$/djlist/14_#中英串烧$/djlist/96_#慢摇串烧$/djlist/2_#喊麦串烧$/djlist/15_#Electro$/djlist/22_#ProgHouse$/djlist/26_#FunkyHouse$/djlist/99_#喊麦更多$/djlist/27_#慢摇中文串烧$/djlist/16_#慢歌串烧$/djlist/3_#中文Remix$/djlist/4_#外文Remix$/djlist/5_#越南鼓$/djlist/6_#酒吧风格$/djlist/7_#Mashup$/djlist/8_#中文DISCO$/djlist/9_#外文DISCO$/djlist/10_#交谊舞曲$/djlist/11_", 
+  "houzhui": ".html", 
+  "qishiye": "1", 
+  "shifouercijiequ": "0", 
+  "jiequqian": "空", 
+  "jiequhou": "空", 
+  "jiequshuzuqian": "class=\"isgood_list\">", 
+  "jiequshuzuhou": "</td>", 
+  "tupianqian": "img src=\"", 
+  "tupianhou": "\"", 
+  "tupianqianzhui": "http:", 
+  "fubiaotiqian": "class=\"sc_1\">TIME", 
+  "fubiaotihou": "</span>", 
+  "lianjieqian": "href=\"", 
+  "lianjiehou": "\"", 
+  "ljqianzhui": "空", 
+  "biaotiqian": "title=\"", 
+  "biaotihou": "\"" 
+},
+{"name": "🎵音乐MV",
 "url": "https://www.ichemv.com",
 "User": "authority$play.bgp.68tool.com#referer$https://www.ichemv.com/",
 "直接播放": "1",
