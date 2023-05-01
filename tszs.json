@@ -1,7 +1,7 @@
 //首页的栏目可以自己设置标题名称和图片，key不用改动，是列表页的识别标志，每个栏目的顺序也可以随意排序。注意最后一个不用加,号
 //持续关注工众號：吾爱评测，及时获取最新免费优质软件，本接口自网络收集，仅为不会写代码而又想使用调试助手的粉丝提供便利之用，作者不是本人，而是多位网络大佬，如有冒犯，请联系删除，谢谢！
 {"Home": [
-{"key":"采集","title":"主页","pic":"https://i.niupic.com/images/2022/10/03/a5YW.jpg"},
+{"key":"采集","title":"采集","pic":"https://i.niupic.com/images/2022/10/03/a5YW.jpg"},
 {"key":"网页","title":"网页","pic":"https://i.niupic.com/images/2022/10/03/a5Z0.jpg"},
 {"key":"APP","title":"APP","pic":"https://i.niupic.com/images/2022/10/03/a5YX.jpg"},
 {"key":"直播","title":"电视","pic":"https://i.niupic.com/images/2022/10/03/a5Z1.jpg"},
