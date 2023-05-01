@@ -466,7 +466,9 @@
 "直接播放": "0",
 "列表显示": "0",
 "横图显示": "0",
-
+"嗅探词": "m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词": "51.la#cnzz.com#baidu.com#?url=",
+"qishiye": "1",
 "fenlei": "电影$/type/id-20-#电视剧$/type/id-21-#综艺$/type/id-22-#动漫/少儿$/type/id-23-#纪录片$/type/id-24-",
 "houzhui": ".html",
 
