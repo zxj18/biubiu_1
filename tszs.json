@@ -111,10 +111,11 @@
 
 "caijizhan": [
 
+{"name":"量子资源(切)","url":"http://cj.lziapi.com/api.php"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"七七2","url":"http://api.tyun77.cn/api.php"},
 
-{"name":"量子资源(切)","url":"http://cj.lziapi.com/api.php"},
+
 {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php"},
 
 {"name":"阳光资源","url":"http://www.xxzy.org/api.php"},
