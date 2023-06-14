@@ -61,6 +61,8 @@
 
 
 "zhuyejiekou": [
+{"name":"七七","url":"http://api.tyun77.cn/api.php"},
+{"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"555电影1","url":"https://www.555ys1.com/api.php/app/"},
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
 {"name":"万能影院","url":"http://app.wnvod.net/lvdou_api.php/v1.vod"},
@@ -109,7 +111,6 @@
 
 "caijizhan": [
 
-{"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
 {"name":"七七","url":"http://api.tyun77.cn/api.php"},
 
