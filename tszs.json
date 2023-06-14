@@ -61,7 +61,7 @@
 
 
 "zhuyejiekou": [
-{"name":"七七","url":"http://api.tyun77.cn/api.php"},
+
 {"name":"555","url":"https://www.xawqxh.net/api.php/app/"},
 {"name":"555电影1","url":"https://www.555ys1.com/api.php/app/"},
 {"name":"阿里影视","url":"http://aliys.cn:90/api.php/v1.vod"},
@@ -112,13 +112,13 @@
 "caijizhan": [
 
 {"name":"七七","url":"http://api.kunyu77.com/api.php"},
-{"name":"七七","url":"http://api.tyun77.cn/api.php"},
+{"name":"七七2","url":"http://api.tyun77.cn/api.php"},
 
-
+{"name":"量子资源(切)","url":"http://cj.lziapi.com/api.php"},
 {"name":"非凡资源","url":"http://cj.ffzyapi.com/api.php"},
 
 {"name":"阳光资源","url":"http://www.xxzy.org/api.php"},
-{"name":"量子资源(切)","url":"http://cj.lziapi.com/api.php"},
+
 {"name":"红牛资源(切)","url":"https://www.hongniuzy3.com/api.php"},
 {"name":"小猫咪(官)","url":"http://zy.xiaomaomi.vip/api.php"},
 
@@ -217,6 +217,7 @@
  //备用解析是常规格式的解析
  "beiyongjiexi": [
 {"name":"杰森🍃","url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"777","url":"https://jx.777jiexi.com/player/?url="}, 
 {"name":"虾米[主]🍃","url":"https://jx.xmflv.com/?url="},
 {"name":"8090[主]🍃","url":"https://www.8090.la/8090/?url="},
 {"name":"OK解析[主]🍃","url":"https://okjx.cc/?url="},
