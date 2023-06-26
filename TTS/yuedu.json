@@ -1,0 +1,124 @@
+[
+    {
+        "group": {
+            "id": 1,
+            "name": "阅读",
+            "isExpanded": true
+        },
+        "list": [
+            {
+                "id": 1683943679054,
+                "displayName": "云希（zh-CN-YunxiNeural）",
+                "isEnabled": true,
+                "speechRule": {
+                    "target": 4,
+                    "tag": "narration",
+                    "tagRuleId": "ttsrv.multi_voice"
+                },
+                "tts": {
+                    "#type": "internal",
+                    "api": 3,
+                    "voiceName": "zh-CN-YunxiNeural",
+                    "prosody": {
+                        "rate": 40
+                    }
+                }
+            },
+            {
+                "id": 1683943965607,
+                "displayName": "云扬（zh-CN-YunyangNeural）",
+                "isEnabled": true,
+                "speechRule": {
+                    "target": 4,
+                    "tag": "dialogue",
+                    "tagRuleId": "ttsrv.multi_voice"
+                },
+                "tts": {
+                    "#type": "internal",
+                    "api": 3,
+                    "voiceName": "zh-CN-YunyangNeural",
+                    "prosody": {
+                        "rate": 40
+                    }
+                }
+            },
+            {
+                "id": 1683945887241,
+                "displayName": "晓晓（zh-CN-XiaoxiaoNeural）",
+                "isEnabled": true,
+                "speechRule": {
+                    "target": 4,
+                    "tag": "dialogue",
+                    "tagRuleId": "ttsrv.multi_voice"
+                },
+                "tts": {
+                    "#type": "internal",
+                    "prosody": {
+                        "rate": 40
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "group": {
+            "id": 1680114364175,
+            "name": "阅读2",
+            "isExpanded": true
+        },
+        "list": [
+            {
+                "id": 1680114367933,
+                "groupId": 1680114364175,
+                "displayName": "晓晓（zh-CN-XiaoxiaoNeural）",
+                "speechRule": {
+                    "target": 4,
+                    "tag": "dialogue",
+                    "tagRuleId": "ttsrv.multi_voice"
+                },
+                "tts": {
+                    "#type": "internal",
+                    "prosody": {
+                        "rate": 40,
+                        "pitch": 0
+                    }
+                }
+            },
+            {
+                "id": 1680114401757,
+                "groupId": 1680114364175,
+                "displayName": "云希（zh-CN-YunxiNeural）",
+                "speechRule": {
+                    "target": 4,
+                    "tag": "narration",
+                    "tagRuleId": "ttsrv.multi_voice"
+                },
+                "tts": {
+                    "#type": "internal",
+                    "voiceName": "zh-CN-YunxiNeural",
+                    "prosody": {
+                        "rate": 40
+                    }
+                }
+            },
+            {
+                "id": 1680525038780,
+                "groupId": 1680114364175,
+                "displayName": "云扬（zh-CN-YunyangNeural）",
+                "speechRule": {
+                    "target": 4,
+                    "tag": "dialogue",
+                    "tagRuleId": "ttsrv.multi_voice"
+                },
+                "tts": {
+                    "#type": "internal",
+                    "voiceName": "zh-CN-YunyangNeural",
+                    "prosody": {
+                        "rate": 40,
+                        "pitch": 0
+                    }
+                }
+            }
+        ]
+    }
+]
